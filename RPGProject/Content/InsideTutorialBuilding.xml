@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<XnaContent>
+  <Asset Type="RPGProjectLibrary.StageSectionData">
+    <mapStageID>Town</mapStageID>
+    <sectionSize>700 400</sectionSize>
+    <backgroundMusicFileName>Audio/Race To Action</backgroundMusicFileName>
+    <currentSectionID>InsideTutorialBuilding</currentSectionID>
+    <nextSectionID>None</nextSectionID>
+    <previousSectionID>None</previousSectionID>
+    <obstacles>
+      <Item>
+        <obstacleType>RectangleWall</obstacleType>
+        <textureName>Scenery/Town/insidebuildingground</textureName>
+        <collisionOffset>0</collisionOffset>
+        <position>350 360</position>
+        <velocity>0 0</velocity>
+        <behindScenery>true</behindScenery>
+      </Item>
+    </obstacles>
+    <backgroundObjects>
+      <Item>
+        <textureFileName>Scenery/Town/cornerpillar</textureFileName>
+        <position>140 160</position>
+        <velocity>0 0</velocity>
+        <rotation>0</rotation>
+        <scale>1</scale>
+        <tint>FFFFFFFF</tint>
+        <spriteEffect>None</spriteEffect>
+        <totalFrames>1</totalFrames>
+        <fps>0</fps>
+        <animationType>Stopped</animationType>
+      </Item>
+      <Item>
+        <textureFileName>Scenery/Town/cornerpillar2</textureFileName>
+        <position>560 160</position>
+        <velocity>0 0</velocity>
+        <rotation>0</rotation>
+        <scale>1</scale>
+        <tint>FFFFFFFF</tint>
+        <spriteEffect>FlipHorizontally</spriteEffect>
+        <totalFrames>1</totalFrames>
+        <fps>0</fps>
+        <animationType>Stopped</animationType>
+      </Item>
+    </backgroundObjects>
+    <foregroundObjects></foregroundObjects>
+    <doors>
+      <Item>
+        <position>10 200</position>
+        <destinationSection>Town1</destinationSection>
+        <destinationSectionPosition>332 274</destinationSectionPosition>
+        <doorType>Boundary</doorType>
+        <collisionBoundaryWidth>10</collisionBoundaryWidth>
+        <collisionBoundaryHeight>400</collisionBoundaryHeight>
+        <closedUnlockedSpriteData>
+          <textureFileName>Blank</textureFileName>
+          <totalFrames>1</totalFrames>
+          <fps>0</fps>
+        </closedUnlockedSpriteData>
+        <closedLockedSpriteData>
+          <textureFileName>Blank</textureFileName>
+          <totalFrames>1</totalFrames>
+          <fps>0</fps>
+        </closedLockedSpriteData>
+        <openingSpriteData>
+          <textureFileName>Blank</textureFileName>
+          <totalFrames>5</totalFrames>
+          <fps>10</fps>
+        </openingSpriteData>
+        <lockFlag>
+          <flagName>ts3lblock</flagName>
+          <flagValue>0</flagValue>
+        </lockFlag>
+        <openingSound></openingSound>
+        <flagChangesOnEnter></flagChangesOnEnter>
+      </Item>
+    </doors>
+    <mapBGTextureName>Blank</mapBGTextureName>
+    <battleBGTextureName>Scenery/Town/townbattlebg</battleBGTextureName>
+  </Asset>
+</XnaContent>

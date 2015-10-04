@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- 
+      List of party characters and their stats.
+      To add a new character that can be a member of the players character, add a new entry to the CharacterIdentity enum in QuestData.cs, and add an entry for their stats here.
+      Multiple entries for the same CharacterIdentity should not exist here.
+  -->
+  <Asset Type="System.Collections.Generic.List[RPGProjectLibrary.PlayerStatsData]">
+    <Item>
+      <characterID>Cross</characterID>
+      <portraitTextureFileName>BattleCharacters/Cross/CrossBattlePortrait</portraitTextureFileName>
+      <initialLevel>100</initialLevel>
+      <initialHP>20</initialHP>
+      <initialMP>5</initialMP>
+      <initialATK>6</initialATK>
+      <initialDEF>8</initialDEF>
+      <initialMAG_ATK>2</initialMAG_ATK>
+      <initialMAG_DEF>8</initialMAG_DEF>
+      <initialSPD>4</initialSPD>
+      <HPGrowth>3</HPGrowth>
+      <MPGrowth>1</MPGrowth>
+      <ATKGrowth>2</ATKGrowth>
+      <DEFGrowth>3</DEFGrowth>
+      <MAG_ATKGrowth>1</MAG_ATKGrowth>
+      <MAG_DEFGrowth>2</MAG_DEFGrowth>
+      <SPDGrowth>1</SPDGrowth>
+      <techniqueLevelData>
+        <Item>
+          <!--Example of a technique level restriction. Conviction can only be used if Cross is Level 5 and up.-->
+          <techniqueName>Conviction</techniqueName>
+          <levelLearnt>5</levelLearnt>
+        </Item>
+      </techniqueLevelData>
+    </Item>
+    <Item>
+      <characterID>Shelly</characterID>
+      <portraitTextureFileName>BattleCharacters/Shelly/ShellyBattlePortrait</portraitTextureFileName>
+      <initialLevel>1</initialLevel>
+      <initialHP>15</initialHP>
+      <initialMP>15</initialMP>
+      <initialATK>4</initialATK>
+      <initialDEF>4</initialDEF>
+      <initialMAG_ATK>8</initialMAG_ATK>
+      <initialMAG_DEF>8</initialMAG_DEF>
+      <initialSPD>8</initialSPD>
+      <HPGrowth>2</HPGrowth>
+      <MPGrowth>3</MPGrowth>
+      <ATKGrowth>1</ATKGrowth>
+      <DEFGrowth>2</DEFGrowth>
+      <MAG_ATKGrowth>3</MAG_ATKGrowth>
+      <MAG_DEFGrowth>4</MAG_DEFGrowth>
+      <SPDGrowth>3</SPDGrowth>
+      <techniqueLevelData></techniqueLevelData>
+    </Item>
+    <Item>
+      <characterID>Guy</characterID>
+      <portraitTextureFileName>BattleCharacters/Guy/GuyBattlePortrait</portraitTextureFileName>
+      <initialLevel>1</initialLevel>
+      <initialHP>18</initialHP>
+      <initialMP>5</initialMP>
+      <initialATK>10</initialATK>
+      <initialDEF>4</initialDEF>
+      <initialMAG_ATK>2</initialMAG_ATK>
+      <initialMAG_DEF>4</initialMAG_DEF>
+      <initialSPD>10</initialSPD>
+      <HPGrowth>2</HPGrowth>
+      <MPGrowth>1</MPGrowth>
+      <ATKGrowth>4</ATKGrowth>
+      <DEFGrowth>2</DEFGrowth>
+      <MAG_ATKGrowth>1</MAG_ATKGrowth>
+      <MAG_DEFGrowth>2</MAG_DEFGrowth>
+      <SPDGrowth>4</SPDGrowth>
+      <techniqueLevelData></techniqueLevelData>
+    </Item>
+  </Asset>
+</XnaContent>

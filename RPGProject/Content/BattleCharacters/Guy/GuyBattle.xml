@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- Example of a basic player with attack and defend.-->
+  <Asset Type="RPGProjectLibrary.PlayerBattleCharacterData">
+    <name>Guy</name>
+    <battlePortraitFileName>BattleCharacters/Guy/GuyBattlePortrait</battlePortraitFileName>
+    <drawOffset>66</drawOffset>
+    <runSpeed>10</runSpeed>
+    <battleStartAnimation>
+      <textureFileName>BattleCharacters/Guy/GuyBattleStart</textureFileName>
+      <totalFrames>9</totalFrames>
+      <fps>10</fps>
+    </battleStartAnimation>
+    <idleAnimation>
+      <textureFileName>BattleCharacters/Guy/GuyBattleIdle</textureFileName>
+      <totalFrames>7</totalFrames>
+      <fps>15</fps>
+    </idleAnimation>
+    <runAnimation>
+      <textureFileName>BattleCharacters/Guy/GuyBattleRun</textureFileName>
+      <totalFrames>6</totalFrames>
+      <fps>15</fps>
+    </runAnimation>
+    <damageAnimation>
+      <textureFileName>BattleCharacters/Guy/GuyBattleDamage</textureFileName>
+      <totalFrames>5</totalFrames>
+      <fps>10</fps>
+    </damageAnimation>
+    <deathAnimation>
+      <textureFileName>BattleCharacters/Guy/GuyBattleDeath</textureFileName>
+      <totalFrames>2</totalFrames>
+      <fps>10</fps>
+    </deathAnimation>
+    <revivedAnimation>
+      <textureFileName>BattleCharacters/Guy/GuyBattleRevived</textureFileName>
+      <totalFrames>2</totalFrames>
+      <fps>10</fps>
+    </revivedAnimation>
+    <victoryAnimation>
+      <textureFileName>BattleCharacters/Guy/GuyBattleVictory</textureFileName>
+      <totalFrames>5</totalFrames>
+      <fps>10</fps>
+    </victoryAnimation>
+    <itemAnimation>
+      <textureFileName>BattleCharacters/Guy/GuyBattleCastSpell</textureFileName>
+      <totalFrames>6</totalFrames>
+      <fps>10</fps>
+    </itemAnimation>
+    <techniques>
+      <Item>
+        <!--Example of a multi-hitting attack technique.-->
+        <techniqueName>Attack</techniqueName>
+        <techniqueDescription>Two swift punches.</techniqueDescription>
+        <techniqueRange>Direct</techniqueRange>
+        <techniqueTargeting>SingleEnemy</techniqueTargeting>
+        <techniqueCost>0</techniqueCost>
+        <characterAnimation>
+          <textureFileName>BattleCharacters/Guy/GuyBattleAttack</textureFileName>
+          <totalFrames>9</totalFrames>
+          <fps>10</fps>
+        </characterAnimation>
+        <effects></effects>
+        <actions>
+          <Item>
+            <!--Example of multiple damage actions in the same technique.-->
+            <actionTime>2</actionTime>
+            <actionType>Damage</actionType>
+            <actionStatType>Physical</actionStatType>
+            <strength>8</strength>
+          </Item>
+          <Item>
+            <actionTime>6</actionTime>
+            <actionType>Damage</actionType>
+            <actionStatType>Physical</actionStatType>
+            <strength>8</strength>
+          </Item>
+        </actions>
+        <buffs></buffs>
+        <sounds>
+          <!--Example of multiple sound effects in the same technique.-->
+          <Item>
+            <soundTime>2</soundTime>
+            <soundFileName>Audio/guyPunch1</soundFileName>
+          </Item>
+          <Item>
+            <soundTime>6</soundTime>
+            <soundFileName>Audio/guyPunch2</soundFileName>
+          </Item>
+        </sounds>
+      </Item>
+      <Item>
+        <techniqueName>Defend</techniqueName>
+        <techniqueDescription>Guard with fists.</techniqueDescription>
+        <techniqueRange>Direct</techniqueRange>
+        <techniqueTargeting>Self</techniqueTargeting>
+        <techniqueCost>0</techniqueCost>
+        <characterAnimation>
+          <textureFileName>BattleCharacters/Guy/GuyBattleBlock</textureFileName>
+          <totalFrames>2</totalFrames>
+          <fps>10</fps>
+        </characterAnimation>
+        <effects></effects>
+        <actions>
+        </actions>
+        <buffs></buffs>
+        <sounds></sounds>
+      </Item>
+    </techniques>
+  </Asset>
+</XnaContent>

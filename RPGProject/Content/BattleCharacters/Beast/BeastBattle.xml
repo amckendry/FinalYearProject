@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- Example of a basic enemy with attack as its only means of action.-->
+  <Asset Type="RPGProjectLibrary.EnemyBattleCharacterData">
+    <name>Beast</name>
+    <drawOffset>66</drawOffset>
+    <runSpeed>3</runSpeed>
+    <HP>25</HP>
+    <MP>0</MP>
+    <ATK>8</ATK>
+    <DEF>7</DEF>
+    <MAG_ATK>0</MAG_ATK>
+    <MAG_DEF>2</MAG_DEF>
+    <SPD>5</SPD>
+    <EXPWorth>3</EXPWorth>
+    <idleAnimation>
+      <textureFileName>BattleCharacters/Beast/BeastBattleIdle</textureFileName>
+      <totalFrames>5</totalFrames>
+      <fps>7</fps>
+    </idleAnimation>
+    <runAnimation>
+      <textureFileName>BattleCharacters/Beast/BeastBattleRun</textureFileName>
+      <totalFrames>6</totalFrames>
+      <fps>10</fps>
+    </runAnimation>
+    <damageAnimation>
+      <textureFileName>BattleCharacters/Beast/BeastBattleDamage</textureFileName>
+      <totalFrames>5</totalFrames>
+      <fps>10</fps>
+    </damageAnimation>
+    <deathAnimation>
+      <textureFileName>BattleCharacters/Beast/BeastBattleDeath</textureFileName>
+      <totalFrames>6</totalFrames>
+      <fps>10</fps>
+    </deathAnimation>
+    <techniques>
+      <Item>
+        <!--Example of an attack technique.-->
+        <techniqueName>Attack</techniqueName>
+        <techniqueDescription></techniqueDescription>
+        <techniqueRange>Direct</techniqueRange>
+        <techniqueTargeting>SingleEnemy</techniqueTargeting>
+        <techniqueCost>0</techniqueCost>
+        <characterAnimation>
+          <textureFileName>BattleCharacters/Beast/BeastBattleAttack</textureFileName>
+          <totalFrames>8</totalFrames>
+          <fps>10</fps>
+        </characterAnimation>
+        <effects></effects>
+        <actions>
+          <Item>
+            <!--Example of an offensive damaging action.-->
+            <actionTime>3</actionTime>
+            <actionType>Damage</actionType>
+            <actionStatType>Physical</actionStatType>
+            <strength>10</strength>
+          </Item>
+        </actions>
+        <buffs></buffs>
+        <sounds>
+          <Item>
+            <!--Example of a timed sound effect.-->
+          <soundTime>3</soundTime>
+          <soundFileName>Audio/beastAttackHitSound</soundFileName>
+          </Item>
+        </sounds>
+        <AICategories>
+          <!--Example of AI Categories-->
+          <Item>Offensive</Item>
+        </AICategories>
+      </Item>
+    </techniques>
+  </Asset>
+</XnaContent>

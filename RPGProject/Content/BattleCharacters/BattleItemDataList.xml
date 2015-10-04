@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!--
+      List of inventory items with battle effects.
+      If creating a new inventory item with a battle effect, add it's unique name to the InventoryItemIdentity enum in BattleItemData.cs first.
+      Do not add multiple items with the same identity here.
+  -->
+  <Asset Type="System.Collections.Generic.List[RPGProjectLibrary.BattleItemData]">
+      <Item>
+        <!-- Example of healing item structure.-->
+        <itemID>Potion</itemID>
+        <itemDescription>Restores 20 HP to one ally.</itemDescription>
+        <itemBattleEffectTargeting>SingleActiveAlly</itemBattleEffectTargeting>
+        <itemBattleEffect>
+          <effectType>SpellTargeted</effectType>
+          <effectAnimation>
+            <textureFileName>BattleCharacters/Shelly/ShellyBattleHealEffect</textureFileName>
+            <totalFrames>4</totalFrames>
+            <fps>10</fps>
+          </effectAnimation>
+          <relativePosition>-60 -30</relativePosition>
+          <speed>0</speed>
+          <startTime>1</startTime>
+          <lifeTime>4</lifeTime>
+          <effectActions>
+            <Item>
+              <actionTime>2</actionTime>
+              <actionType>Healing</actionType>
+              <actionStatType>Physical</actionStatType>
+              <strength>20</strength>
+            </Item>
+          </effectActions>
+          <effectBuffs></effectBuffs>
+          <effectSounds></effectSounds>
+        </itemBattleEffect>
+      </Item>    
+  </Asset>
+</XnaContent>

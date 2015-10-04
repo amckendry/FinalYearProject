@@ -1,0 +1,6 @@
+F:\Project Work\RPGProjectLibrary\bin\Xbox 360\Debug\RPGProjectLibrary.dll
+F:\Project Work\RPGProjectLibrary\bin\Xbox 360\Debug\RPGProjectLibrary.pdb
+F:\Project Work\RPGProjectLibrary\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+F:\Project Work\RPGProjectLibrary\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Project Work\RPGProjectLibrary\obj\Xbox 360\Debug\RPGProjectLibrary.dll
+F:\Project Work\RPGProjectLibrary\obj\Xbox 360\Debug\RPGProjectLibrary.pdb

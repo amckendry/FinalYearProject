@@ -1,0 +1,6 @@
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProjectLibrary\bin\x86\Release\RPGProjectLibrary.dll
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProjectLibrary\bin\x86\Release\RPGProjectLibrary.pdb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProjectLibrary\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProjectLibrary\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProjectLibrary\obj\x86\Release\RPGProjectLibrary.dll
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProjectLibrary\obj\x86\Release\RPGProjectLibrary.pdb

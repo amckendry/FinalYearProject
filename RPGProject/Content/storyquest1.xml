@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- Example of a simple quest. 
+       To add a new quest, Create a new XML file with an XnaContent asset of type RPGProjectLibrary.QuestData and complete the structure similar to below.
+       To set the current quest, change the Load<QuestData> int he ScreenManager.cs LoadContent() method to the name of the file of the desired quest.
+    -->
+  <Asset Type="RPGProjectLibrary.QuestData">
+    <questName>Forest Purge</questName>
+    <questFlags></questFlags>
+    <questRequirements></questRequirements>
+    <items></items>
+    <enemies>
+      <Item>
+        <enemyType>Thug</enemyType>
+        <stageSection>InsideTutorialBuilding</stageSection>
+        <position>520 260</position>
+        <enemyAIType>ChasePlayer</enemyAIType>
+        <flagChangesOnDefeat>
+        </flagChangesOnDefeat>
+      </Item>
+    </enemies>
+    <NPCs></NPCs>
+    <autoDialogs></autoDialogs>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- Example of a map character. This character is used as a enemy character.
+       Note that if this character would become a player character at any stage in the game story, this structure would remain the same.
+  -->
+  <Asset Type="RPGProjectLibrary.MapCharacterData">
+    <idleSpriteData>
+      <textureFileName>MapCharacters\Thug\ThugIdle</textureFileName>
+      <totalFrames>6</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>68</height>
+        <width>58</width>
+        <offset>0 0</offset>
+      </collisionBoxData>
+    </idleSpriteData>
+    <runSpriteData>
+      <textureFileName>MapCharacters\Thug\ThugRun</textureFileName>
+      <totalFrames>6</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>68</height>
+        <width>58</width>
+        <offset>0 0</offset>
+      </collisionBoxData>
+    </runSpriteData>
+    <jumpSpriteData>
+      <textureFileName>Blank</textureFileName>
+      <totalFrames>1</totalFrames>
+      <fps>1</fps>
+      <collisionBoxData>
+        <height>0</height>
+        <width>0</width>
+        <offset>0 0</offset>
+      </collisionBoxData>
+    </jumpSpriteData>
+    <fallSpriteData>
+      <textureFileName>MapCharacters/Thug/ThugFall</textureFileName>
+      <totalFrames>2</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>68</height>
+        <width>58</width>
+        <offset>0 0</offset>
+      </collisionBoxData>
+    </fallSpriteData>
+    <landSpriteData>
+      <textureFileName>MapCharacters/Thug/ThugLand</textureFileName>
+      <totalFrames>1</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>68</height>
+        <width>58</width>
+        <offset>0 0</offset>
+      </collisionBoxData>
+    </landSpriteData>
+    <deathSpriteData>
+      <textureFileName>BattleCharacters/Thug/ThugBattleDeath</textureFileName>
+      <totalFrames>7</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>68</height>
+        <width>58</width>
+        <offset>0 0</offset>
+      </collisionBoxData>
+    </deathSpriteData>
+    <portraitTextureName>Blank</portraitTextureName>
+    <walkSpeed>0.4</walkSpeed>
+    <airInfluence>0.0</airInfluence>
+    <frictionFactor>1.1</frictionFactor>
+    <jumpStrength>0</jumpStrength>
+    <mass>0.08</mass>
+  </Asset>
+</XnaContent>

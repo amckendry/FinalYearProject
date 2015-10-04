@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<XnaContent>
+   <Asset Type="RPGProjectLibrary.StageSectionData">
+     <mapStageID>Town</mapStageID>
+     <sectionSize>900 400</sectionSize>
+     <backgroundMusicFileName>Audio/Race To Action</backgroundMusicFileName>
+     <currentSectionID>Town1</currentSectionID>
+     <nextSectionID>None</nextSectionID>
+     <previousSectionID>None</previousSectionID>
+     <obstacles>
+      
+       <Item>
+         <obstacleType>RectangleWall</obstacleType>
+         <textureName>MapObstacles/townground</textureName>
+         <collisionOffset>30</collisionOffset>
+         <position>169 353</position>
+         <velocity>0 0</velocity>
+         <behindScenery>true</behindScenery>
+       </Item>
+
+       <Item>
+         <obstacleType>RectangleWall</obstacleType>
+         <textureName>MapObstacles/townground</textureName>
+         <collisionOffset>30</collisionOffset>
+         <position>507 353</position>
+         <velocity>0 0</velocity>
+         <behindScenery>true</behindScenery>
+       </Item>
+       <Item>
+         <obstacleType>RectangleWall</obstacleType>
+         <textureName>MapObstacles/townground</textureName>
+         <collisionOffset>30</collisionOffset>
+         <position>845 353</position>
+         <velocity>0 0</velocity>
+         <behindScenery>true</behindScenery>
+       </Item>
+     </obstacles>
+     <backgroundObjects>
+       <Item>
+         <textureFileName>Scenery/Town/building</textureFileName>
+         <position>300 230</position>
+         <velocity>0 0</velocity>
+         <rotation>0</rotation>
+         <scale>1</scale>
+         <tint>FFFFFFFF</tint>
+         <spriteEffect>None</spriteEffect>
+         <totalFrames>1</totalFrames>
+         <fps>0</fps>
+         <animationType>Stopped</animationType>
+       </Item>
+       <Item>
+         <textureFileName>Scenery/Town/cornerbuilding</textureFileName>
+         <position>857 246</position>
+         <velocity>0 0</velocity>
+         <rotation>0</rotation>
+         <scale>1</scale>
+         <tint>FFFFFFFF</tint>
+         <spriteEffect>None</spriteEffect>
+         <totalFrames>1</totalFrames>
+         <fps>0</fps>
+         <animationType>Stopped</animationType>
+       </Item>
+     </backgroundObjects>
+     <foregroundObjects>
+       <Item>
+         <textureFileName>Scenery/Town/coveredcrate</textureFileName>
+         <position>400 340</position>
+         <velocity>0 0</velocity>
+         <rotation>0</rotation>
+         <scale>1</scale>
+         <tint>FFFFFFFF</tint>
+         <spriteEffect>None</spriteEffect>
+         <totalFrames>1</totalFrames>
+         <fps>0</fps>
+         <animationType>Stopped</animationType>
+       </Item>
+       <Item>
+         <textureFileName>Scenery/Town/coveredcrate</textureFileName>
+         <position>264 340</position>
+         <velocity>0 0</velocity>
+         <rotation>0</rotation>
+         <scale>1</scale>
+         <tint>FFFFFFFF</tint>
+         <spriteEffect>None</spriteEffect>
+         <totalFrames>1</totalFrames>
+         <fps>0</fps>
+         <animationType>Stopped</animationType>
+       </Item>
+
+       <Item>
+         <textureFileName>Scenery/Town/hydrant</textureFileName>
+         <position>604 340</position>
+         <velocity>0 0</velocity>
+         <rotation>0</rotation>
+         <scale>1</scale>
+         <tint>FFFFFFFF</tint>
+         <spriteEffect>None</spriteEffect>
+         <totalFrames>1</totalFrames>
+         <fps>0</fps>
+         <animationType>Stopped</animationType>
+       </Item>
+     </foregroundObjects>
+     <doors>
+       <Item>
+         <position>332 286</position>
+         <destinationSection>InsideTutorialBuilding</destinationSection>
+         <destinationSectionPosition>65 258</destinationSectionPosition>
+         <doorType>ManualDoor</doorType>
+         <collisionBoundaryWidth>96</collisionBoundaryWidth>
+         <collisionBoundaryHeight>70</collisionBoundaryHeight>
+         <closedUnlockedSpriteData>
+           <textureFileName>Scenery\Town/buildingdoorclosedunlocked</textureFileName>
+           <totalFrames>1</totalFrames>
+           <fps>0</fps>
+         </closedUnlockedSpriteData>
+         <closedLockedSpriteData>
+           <textureFileName>Scenery\Town/buildingdoorclosedunlocked</textureFileName>
+           <totalFrames>1</totalFrames>
+           <fps>0</fps>
+         </closedLockedSpriteData>
+         <openingSpriteData>
+           <textureFileName>Scenery\Town/buildingdooropening</textureFileName>
+           <totalFrames>5</totalFrames>
+           <fps>10</fps>
+         </openingSpriteData>
+         <lockFlag>
+           <flagName>ts1lblock</flagName>
+           <flagValue>0</flagValue>
+         </lockFlag>
+         <openingSound>Audio/elecDoorOpening</openingSound>
+         <flagChangesOnEnter></flagChangesOnEnter>
+       </Item>
+       <Item>
+         <position>890 200</position>
+         <destinationSection>Town2</destinationSection>
+         <destinationSectionPosition>65 274</destinationSectionPosition>
+         <doorType>Boundary</doorType>
+         <collisionBoundaryWidth>10</collisionBoundaryWidth>
+         <collisionBoundaryHeight>200</collisionBoundaryHeight>
+         <closedUnlockedSpriteData>
+           <textureFileName>Blank</textureFileName>
+           <totalFrames>1</totalFrames>
+           <fps>0</fps>
+         </closedUnlockedSpriteData>
+         <closedLockedSpriteData>
+           <textureFileName>Blank</textureFileName>
+           <totalFrames>1</totalFrames>
+           <fps>0</fps>
+         </closedLockedSpriteData>
+         <openingSpriteData>
+           <textureFileName>Blank</textureFileName>
+           <totalFrames>1</totalFrames>
+           <fps>0</fps>
+         </openingSpriteData>
+         <lockFlag>
+           <flagName>ts1rblock</flagName>
+           <flagValue>0</flagValue>
+         </lockFlag>
+         <openingSound></openingSound>
+         <flagChangesOnEnter>
+           <Item>
+             <flagNameToChange>MovedToBuilding</flagNameToChange>
+             <flagValueChangeType>Absolute</flagValueChangeType>
+             <changeValue>1</changeValue>
+           </Item>
+         </flagChangesOnEnter>
+       </Item>
+     </doors>
+     <mapBGTextureName>Scenery/Town/townBG</mapBGTextureName>
+     <battleBGTextureName>Scenery/Town/townbattlebg</battleBGTextureName>
+     </Asset>
+</XnaContent>

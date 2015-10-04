@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<XnaContent>
+  <Asset Type="RPGProjectLibrary.StageSectionData">
+    <mapStageID>Forest</mapStageID>
+    <sectionSize>900 400</sectionSize>
+    <backgroundMusicFileName>Audio/Race To Action</backgroundMusicFileName>
+    <currentSectionID>Forest1</currentSectionID>
+    <nextSectionID>None</nextSectionID>
+    <previousSectionID>None</previousSectionID>
+    <obstacles>
+      <Item>
+      <obstacleType>RectangleWall</obstacleType>
+      <textureName>Scenery/Forest/grassground</textureName>
+      <collisionOffset>8</collisionOffset>
+      <position>450 382</position>
+      <velocity>0 0</velocity>
+      <behindScenery>true</behindScenery>
+      </Item>
+      <Item>
+        <obstacleType>RectanglePlatform</obstacleType>
+        <textureName>MapObstacles/marbleplatform</textureName>
+        <collisionOffset>8</collisionOffset>
+        <position>450 282</position>
+        <velocity>0 0</velocity>
+        <behindScenery>true</behindScenery>
+      </Item>
+
+      <Item>
+        <obstacleType>RectanglePlatform</obstacleType>
+        <textureName>MapObstacles/marbleplatform</textureName>
+        <collisionOffset>8</collisionOffset>
+        <position>250 222</position>
+        <velocity>0 0</velocity>
+        <behindScenery>true</behindScenery>
+      </Item>
+
+      <Item>
+        <obstacleType>RectanglePlatform</obstacleType>
+        <textureName>MapObstacles/marbleplatform</textureName>
+        <collisionOffset>8</collisionOffset>
+        <position>650 252</position>
+        <velocity>0 0</velocity>
+        <behindScenery>true</behindScenery>
+      </Item>
+
+      <Item>
+        <obstacleType>RectanglePlatform</obstacleType>
+        <textureName>MapObstacles/marbleplatform</textureName>
+        <collisionOffset>8</collisionOffset>
+        <position>820 302</position>
+        <velocity>0 0</velocity>
+        <behindScenery>true</behindScenery>
+      </Item>
+    </obstacles>
+    <backgroundObjects> 
+    </backgroundObjects>
+    <foregroundObjects>
+        <Item>
+          <textureFileName>Scenery/Forest/toTownSign</textureFileName>
+          <position>50 354</position>
+          <velocity>0 0</velocity>
+          <rotation>0</rotation>
+          <scale>1</scale>
+          <tint>FFFFFFFF</tint>
+          <spriteEffect>None</spriteEffect>
+          <totalFrames>1</totalFrames>
+          <fps>0</fps>
+          <animationType>Stopped</animationType>
+        </Item>
+    </foregroundObjects>
+    <doors>
+      <Item>
+        <position>10 200</position>
+        <destinationSection>Town3</destinationSection>
+        <destinationSectionPosition>600 274</destinationSectionPosition>
+        <doorType>Boundary</doorType>
+        <collisionBoundaryWidth>10</collisionBoundaryWidth>
+        <collisionBoundaryHeight>200</collisionBoundaryHeight>
+        <closedUnlockedSpriteData>
+          <textureFileName>Blank</textureFileName>
+          <totalFrames>1</totalFrames>
+          <fps>0</fps>
+        </closedUnlockedSpriteData>
+        <closedLockedSpriteData>
+          <textureFileName>Blank</textureFileName>
+          <totalFrames>1</totalFrames>
+          <fps>0</fps>
+        </closedLockedSpriteData>
+        <openingSpriteData>
+          <textureFileName>Blank</textureFileName>
+          <totalFrames>1</totalFrames>
+          <fps>0</fps>
+        </openingSpriteData>
+        <lockFlag>
+          <flagName>fs1block</flagName>
+          <flagValue>0</flagValue>
+        </lockFlag>
+        <openingSound></openingSound>
+        <flagChangesOnEnter></flagChangesOnEnter>
+      </Item>
+      <Item>
+        <position>890 200</position>
+        <destinationSection>KingsRoom</destinationSection>
+        <destinationSectionPosition>65 274</destinationSectionPosition>
+        <doorType>Boundary</doorType>
+        <collisionBoundaryWidth>10</collisionBoundaryWidth>
+        <collisionBoundaryHeight>200</collisionBoundaryHeight>
+        <closedUnlockedSpriteData>
+          <textureFileName>Blank</textureFileName>
+          <totalFrames>1</totalFrames>
+          <fps>0</fps>
+        </closedUnlockedSpriteData>
+        <closedLockedSpriteData>
+          <textureFileName>Blank</textureFileName>
+          <totalFrames>1</totalFrames>
+          <fps>0</fps>
+        </closedLockedSpriteData>
+        <openingSpriteData>
+          <textureFileName>Blank</textureFileName>
+          <totalFrames>1</totalFrames>
+          <fps>0</fps>
+        </openingSpriteData>
+        <lockFlag>
+          <flagName>kingsroomlock</flagName>
+          <flagValue>1</flagValue>
+        </lockFlag>
+        <openingSound></openingSound>
+        <flagChangesOnEnter></flagChangesOnEnter>
+      </Item>
+    </doors>
+    <mapBGTextureName>Scenery/Forest/forestBG</mapBGTextureName>
+    <battleBGTextureName>Scenery/Forest/forestbattleBG</battleBGTextureName>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- Example of a basic enemy with attack as its only means of action.-->
+  <Asset Type="RPGProjectLibrary.EnemyBattleCharacterData">
+    <name>Thug</name>
+    <drawOffset>37</drawOffset>
+    <runSpeed>4</runSpeed>
+    <HP>20</HP>
+    <MP>10</MP>
+    <ATK>5</ATK>
+    <DEF>3</DEF>
+    <MAG_ATK>5</MAG_ATK>
+    <MAG_DEF>3</MAG_DEF>
+    <SPD>6</SPD>
+    <EXPWorth>5</EXPWorth>
+    <idleAnimation>
+      <textureFileName>MapCharacters/Thug/ThugIdle</textureFileName>
+      <totalFrames>6</totalFrames>
+      <fps>10</fps>
+    </idleAnimation>
+    <runAnimation>
+      <textureFileName>MapCharacters/Thug/ThugRun</textureFileName>
+      <totalFrames>6</totalFrames>
+      <fps>10</fps>
+    </runAnimation>
+    <damageAnimation>
+      <textureFileName>BattleCharacters/Thug/ThugBattleDamage</textureFileName>
+      <totalFrames>5</totalFrames>
+      <fps>10</fps>
+    </damageAnimation>
+    <deathAnimation>
+      <textureFileName>BattleCharacters/Thug/ThugBattleDeath</textureFileName>
+      <totalFrames>7</totalFrames>
+      <fps>10</fps>
+    </deathAnimation>
+    <techniques>
+      <Item>
+        <!--Example of an attack technique.-->
+        <techniqueName>Attack</techniqueName>
+        <techniqueDescription></techniqueDescription>
+        <techniqueRange>Direct</techniqueRange>
+        <techniqueTargeting>SingleEnemy</techniqueTargeting>
+        <techniqueCost>0</techniqueCost>
+        <characterAnimation>
+          <textureFileName>BattleCharacters/Thug/ThugBattleAttack</textureFileName>
+          <totalFrames>4</totalFrames>
+          <fps>10</fps>
+        </characterAnimation>
+        <effects></effects>
+        <actions>
+          <Item>
+            <!--Example of an offensive damaging action.-->
+            <actionTime>3</actionTime>
+            <actionType>Damage</actionType>
+            <actionStatType>Physical</actionStatType>
+            <strength>5</strength>
+          </Item>
+        </actions>
+        <buffs></buffs>
+        <sounds>
+        </sounds><AICategories>
+          <!--Example of AI Categories-->
+          <Item>Offensive</Item>
+        </AICategories>
+      </Item>
+    </techniques>
+  </Asset>
+</XnaContent>

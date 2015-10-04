@@ -1,0 +1,1114 @@
+C:\Users\Andrew\Desktop\RPGProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\RPGProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\RPGProject.exe
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\RPGProject.pdb
+C:\Users\Andrew\Desktop\RPGProject\obj\x86\Debug\RPGProject.exe
+C:\Users\Andrew\Desktop\RPGProject\obj\x86\Debug\RPGProject.pdb
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\Content\BattleCharacters\Asuka\BattleAsukaIdle.xnb
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\BattleCrossIdle.xnb
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\Content\BattleCharacters\Hibito\BattleHibitoIdle.xnb
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossFall.xnb
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossIdle.xnb
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossJump.xnb
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossRun.xnb
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossWalk.xnb
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\Content\MapObstacles\marbleplatform.xnb
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\Content\BookmanOldStyle.xnb
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\RPGProjectLibrary.dll
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\RPGProjectLibrary.pdb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossFall.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossIdle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossJump.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossRun.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\marbleplatform.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\RPGProject.exe
+E:\Project Work\RPGProject\bin\x86\Debug\RPGProject.pdb
+E:\Project Work\RPGProject\bin\x86\Debug\RPGProjectLibrary.dll
+E:\Project Work\RPGProject\bin\x86\Debug\RPGProjectLibrary.pdb
+E:\Project Work\RPGProject\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project Work\RPGProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Project Work\RPGProject\obj\x86\Debug\RPGProject.exe
+E:\Project Work\RPGProject\obj\x86\Debug\RPGProject.pdb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossFall.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossIdle.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossJump.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossRun.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossWalk.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\marbleplatform.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\RPGProject.exe
+F:\Project Work\RPGProject\bin\x86\Debug\RPGProject.pdb
+F:\Project Work\RPGProject\bin\x86\Debug\RPGProjectLibrary.dll
+F:\Project Work\RPGProject\bin\x86\Debug\RPGProjectLibrary.pdb
+F:\Project Work\RPGProject\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project Work\RPGProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Project Work\RPGProject\obj\x86\Debug\RPGProject.exe
+F:\Project Work\RPGProject\obj\x86\Debug\RPGProject.pdb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleFall.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleIdle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleLand.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossLand.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleRun.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleFall.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleIdle.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleLand.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleRun.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossLand.xnb
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleFall.xnb
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleIdle.xnb
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleLand.xnb
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleRun.xnb
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossLand.xnb
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\Content\Black.xnb
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\Content\TestStage_1.xnb
+C:\Users\Andrew\Desktop\RPGProject\bin\x86\Debug\Content\TestStage_2.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Black.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Black.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\TestStage_1.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\TestStage_2.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossFall.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossIdle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossJump.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossRun.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\marbleplatform.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleFall.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleIdle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleLand.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleRun.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossLand.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\RPGProject.exe
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\RPGProject.pdb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\RPGProjectLibrary.dll
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\RPGProjectLibrary.pdb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\Project Work\RPGProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew\Desktop\Project Work\RPGProject\obj\x86\Debug\RPGProject.exe
+C:\Users\Andrew\Desktop\Project Work\RPGProject\obj\x86\Debug\RPGProject.pdb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\brownwall.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\slope.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\brownwall.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\slope.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyIdle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyRun.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyFall.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyJump.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyLand.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyIdle.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyRun.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyFall.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyJump.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyLand.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\brownwall.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\slope.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyIdle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyRun.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyFall.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyJump.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyLand.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\townground.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Black.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\townground.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\TestStage_3.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Montagne\MontagneIdle.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Asuka\BattleAsukaIdle.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\BattleCrossIdle.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Hibito\BattleHibitoIdle.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossFall.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossIdle.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossJump.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossRun.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossWalk.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\marbleplatform.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleFall.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleIdle.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleLand.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleRun.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossLand.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\Black.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\brownwall.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\slope.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyIdle.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyRun.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyFall.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyJump.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyLand.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\townground.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Montagne\MontagneIdle.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\building.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\coveredcrate.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\TestStage_1.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\TestStage_2.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\Cross.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\Shelly.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\Turtle.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\TestStage_3.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\Montagne.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\Content\BookmanOldStyle.xnb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\RPGProject.exe
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\RPGProject.pdb
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\RPGProjectLibrary.dll
+E:\Game Development\Project Work\RPGProject\bin\x86\Debug\RPGProjectLibrary.pdb
+E:\Game Development\Project Work\RPGProject\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Game Development\Project Work\RPGProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Game Development\Project Work\RPGProject\obj\x86\Debug\RPGProject.exe
+E:\Game Development\Project Work\RPGProject\obj\x86\Debug\RPGProject.pdb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossFall.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossIdle.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossJump.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossRun.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossWalk.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\marbleplatform.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleFall.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleIdle.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleLand.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleRun.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossLand.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\Black.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\brownwall.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\slope.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyIdle.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyRun.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyFall.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyJump.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyLand.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\townground.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Montagne\MontagneIdle.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\building.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\coveredcrate.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\TestStage_1.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\TestStage_2.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\Cross.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\Shelly.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\Turtle.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\TestStage_3.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\Montagne.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\BookmanOldStyle.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\RPGProject.exe
+G:\Project Work\RPGProject\bin\x86\Debug\RPGProject.pdb
+G:\Project Work\RPGProject\bin\x86\Debug\RPGProjectLibrary.dll
+G:\Project Work\RPGProject\bin\x86\Debug\RPGProjectLibrary.pdb
+G:\Project Work\RPGProject\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Project Work\RPGProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Project Work\RPGProject\obj\x86\Debug\RPGProject.exe
+G:\Project Work\RPGProject\obj\x86\Debug\RPGProject.pdb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Montagne\MontagneIdle.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\building.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\coveredcrate.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\storyquest1.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\storyquest1.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Blank.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleAttack.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleBlock.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleCastSpell.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleDamage.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleIdle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleRun.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyPortrait.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossPortrait.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Montagne\MontagnePortrait.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Blank.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\buildingdoorclosedunlocked.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\buildingdooropening.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleAttack.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleBlock.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleCastSpell.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleDamage.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleIdle.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleRun.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyPortrait.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossPortrait.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Montagne\MontagnePortrait.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Asuka\AsukaBattleIdle.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Hibito\HibitoBattleIdle.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\Blank.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\buildingdoorclosedunlocked.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\buildingdooropening.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\Dialog\DialogBox.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleAttack.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleBlock.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleCastSpell.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleDamage.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleGetUp.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleIdle.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleKnockdown.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleKO.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleRun.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleUnsheathWeapon.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleUnsheathWeapon.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyPortrait.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossPortrait.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Montagne\MontagnePortrait.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\AButton.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\BButton.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\DownArrow.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\LeftArrow.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\RightArrow.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\UpArrow.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\XButton.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\YButton.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\General\AButton.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\General\BButton.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\General\DownArrow.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\General\LeftArrow.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\General\RightArrow.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\General\UpArrow.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\General\XButton.xnb
+G:\Project Work\RPGProject\bin\x86\Debug\Content\General\YButton.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\AButton.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\BButton.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\DownArrow.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\LeftArrow.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\RightArrow.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\UpArrow.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\XButton.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\YButton.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\townground.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Montagne\MontagneIdle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Blank.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleAttack.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleBlock.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleCastSpell.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleDamage.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleIdle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleRun.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyPortrait.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossPortrait.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Montagne\MontagnePortrait.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\AButton.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\BButton.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\DownArrow.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\LeftArrow.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\RightArrow.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\UpArrow.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\XButton.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\YButton.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\storyquest1.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\redcrystal.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\redcrystalcollected.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\townbattlebg.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\BattleHUD.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\Cross.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\Shelly.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\Turtle.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Montagne\Montagne.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattle.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleRevived.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleStart.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleStart.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleDeath.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattle.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleVictory.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattleDamage.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattleDeath.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleDamage.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleDeath.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleIdle.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleRevived.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleRun.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleVictory.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattle.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\Dialog\DialogBox.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleDamage.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleDeath.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleIdle.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleRun.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattle.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\EnemyDifficultyList.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattlePortrait.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattlePortrait.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\EnemyBattlePortrait1.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\EnemyBattlePortrait2.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\EnemyBattlePortrait3.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\TurnChartBG.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\Dialog\DialogBox.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleRevived.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleStart.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleStart.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\redcrystal.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\redcrystalcollected.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\BattleHUD.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleDeath.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleVictory.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattleDamage.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattleDeath.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleDamage.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleDeath.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleIdle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleRevived.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleRun.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleVictory.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleDamage.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleDeath.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleIdle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleRun.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattlePortrait.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattlePortrait.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\EnemyBattlePortrait1.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\EnemyBattlePortrait2.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\EnemyBattlePortrait3.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\TurnChartBG.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\EnemyDifficultyList.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\StatusBar.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BookmanOldStyleSize8.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BookmanOldStyleSize6.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\sampleBG.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\HPBar.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\MPBar.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\TurnChartSelection.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuBG.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuCursor.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuButtonNotSelected.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuButtonSelected.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTechniqueMenuBG.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\StatusBar.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\HPBar.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\MPBar.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\TurnChartSelection.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuBG.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuCursor.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuButtonNotSelected.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuButtonSelected.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTechniqueMenuBG.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BookmanOldStyleSize8.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BookmanOldStyleSize6.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleArrow.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleAttack.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleBlock.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattleAttack.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleAttack.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleAttack.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleBlock.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleCastSpell.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleDamage.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleDeath.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleIdle.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattlePortrait.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleRevived.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleRun.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleStart.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleVictory.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleArrow.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleAttack.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleBlock.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattleAttack.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleAttack.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleAttack.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleBlock.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleCastSpell.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleDamage.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleDeath.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleIdle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattlePortrait.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleRevived.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleRun.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleStart.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleVictory.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattle.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\InfoBarBG.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\InfoBarBG.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleCastSpell.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleHealEffect.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\buffArrow.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\BattleItemDataList.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\battleInventoryMenuBG.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\Race To Action.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\cursorMove.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\enemyDeath.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\jump.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\land.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\toBattleEffect.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\victory.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\walkStep.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\battle.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\redCrystalCollected.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\dash.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\menuPopUp.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\guyPunch1.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\guyPunch2.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\GameOverMenuBG.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\loss.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\StatusBoxBG.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\crossAttackSound.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\shellyBowFireSound.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\shellyArrowHitSound.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\turtleAttackHitSound.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\beastAttackHitSound.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\PlayerStatsList.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\expAddSound.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\levelUpSound.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\newTechniqueSound.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\dialogSound.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\menuCancel.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\menuConfirm.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\elecDoorOpening.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\updateBarBG.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\selectCharacterMenuBG.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\spendPointsNotSelected.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\spendPointsSelected.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\inventoryStatusBG.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\questStatusBG.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\General\ThanksForPlayingBG.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\thanksForPlaying.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\insidebuilding.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\cornerbuilding.xnb
+F:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\cornerbuilding2.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossFall.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossIdle.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossJump.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossRun.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossWalk.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\marbleplatform.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleFall.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleIdle.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleLand.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleRun.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossLand.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Black.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\brownwall.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\slope.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyIdle.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyRun.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyFall.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyJump.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyLand.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\townground.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Montagne\MontagneIdle.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\building.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\coveredcrate.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Blank.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\buildingdoorclosedunlocked.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\buildingdooropening.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\Dialog\DialogBox.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleAttack.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleBlock.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleCastSpell.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleDamage.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleRevived.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleIdle.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleRun.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleStart.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleStart.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyPortrait.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossPortrait.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Montagne\MontagnePortrait.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\AButton.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\BButton.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\DownArrow.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\LeftArrow.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\RightArrow.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\UpArrow.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\XButton.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\YButton.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\redcrystal.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\redcrystalcollected.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\townbattlebg.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\BattleHUD.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleDeath.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleVictory.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattleDamage.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattleDeath.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleDamage.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleDeath.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleIdle.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleRevived.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleRun.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleVictory.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleDamage.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleDeath.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleIdle.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleRun.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattlePortrait.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattlePortrait.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\EnemyBattlePortrait1.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\EnemyBattlePortrait2.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\EnemyBattlePortrait3.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\TurnChartBG.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\StatusBar.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\sampleBG.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\HPBar.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\MPBar.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\TurnChartSelection.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuBG.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuCursor.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuButtonNotSelected.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuButtonSelected.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTechniqueMenuBG.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleArrow.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleAttack.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleBlock.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattleAttack.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleAttack.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleAttack.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleBlock.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleCastSpell.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleDamage.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleDeath.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleIdle.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattlePortrait.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleRevived.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleRun.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleStart.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleVictory.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\InfoBarBG.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleCastSpell.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleHealEffect.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\buffArrow.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\battleInventoryMenuBG.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\GameOverMenuBG.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\StatusBoxBG.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\updateBarBG.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\selectCharacterMenuBG.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\spendPointsNotSelected.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\spendPointsSelected.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\inventoryStatusBG.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\questStatusBG.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\General\ThanksForPlayingBG.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\insidebuilding.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\cornerbuilding.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\cornerbuilding2.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\TestStage_1.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\TestStage_2.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\Cross.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\Shelly.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\Turtle.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\TestStage_3.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Montagne\Montagne.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\storyquest1.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattle.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattle.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattle.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattle.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\EnemyDifficultyList.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattle.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\BattleItemDataList.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\PlayerStatsList.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BookmanOldStyleSize8.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\BookmanOldStyleSize6.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\Race To Action.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\cursorMove.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\enemyDeath.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\jump.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\land.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\toBattleEffect.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\victory.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\walkStep.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\battle.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\redCrystalCollected.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\dash.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\menuPopUp.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\guyPunch1.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\guyPunch2.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\loss.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\crossAttackSound.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\shellyBowFireSound.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\shellyArrowHitSound.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\turtleAttackHitSound.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\beastAttackHitSound.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\expAddSound.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\levelUpSound.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\newTechniqueSound.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\dialogSound.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\menuCancel.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\menuConfirm.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\elecDoorOpening.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\thanksForPlaying.xnb
+H:\Project Work\RPGProject\bin\x86\Debug\RPGProject.exe
+H:\Project Work\RPGProject\bin\x86\Debug\RPGProject.pdb
+H:\Project Work\RPGProject\bin\x86\Debug\RPGProjectLibrary.dll
+H:\Project Work\RPGProject\bin\x86\Debug\RPGProjectLibrary.pdb
+H:\Project Work\RPGProject\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Project Work\RPGProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Project Work\RPGProject\obj\x86\Debug\RPGProject.exe
+H:\Project Work\RPGProject\obj\x86\Debug\RPGProject.pdb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleCastSpell.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleHealEffect.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\buffArrow.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\battleInventoryMenuBG.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\GameOverMenuBG.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\StatusBoxBG.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\updateBarBG.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\selectCharacterMenuBG.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\spendPointsNotSelected.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\spendPointsSelected.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\inventoryStatusBG.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\questStatusBG.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\General\ThanksForPlayingBG.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\BattleItemDataList.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\PlayerStatsList.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\Race To Action.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\cursorMove.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\enemyDeath.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\jump.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\land.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\toBattleEffect.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\victory.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\walkStep.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\battle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\redCrystalCollected.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\dash.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\menuPopUp.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\guyPunch1.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\guyPunch2.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\loss.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\crossAttackSound.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\shellyBowFireSound.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\shellyArrowHitSound.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\turtleAttackHitSound.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\beastAttackHitSound.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\expAddSound.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\levelUpSound.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\newTechniqueSound.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\dialogSound.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\menuCancel.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\menuConfirm.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\elecDoorOpening.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Audio\thanksForPlaying.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Thug\ThugBattleAttack.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Thug\ThugBattleAttack2.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Thug\ThugBattleDamage.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Thug\ThugBattleDeath.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Thug\ThugBattleSpell.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Thug\ThugBattle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleMap.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossMap.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyMap.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Montagne\MontagneMap.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Thug\ThugMap.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Thug\ThugIdle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Thug\ThugRun.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Thug\ThugLand.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Thug\ThugFall.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\Dialog\DialogBox.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleRevived.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleStart.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleStart.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\redcrystal.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\redcrystalcollected.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\BattleHUD.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleDeath.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleVictory.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattleDamage.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattleDeath.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleDamage.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleDeath.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleIdle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleRevived.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleRun.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleVictory.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleDamage.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleDeath.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleIdle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleRun.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattlePortrait.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattlePortrait.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\EnemyBattlePortrait1.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\EnemyBattlePortrait2.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\EnemyBattlePortrait3.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\TurnChartBG.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\StatusBar.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\HPBar.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\MPBar.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\TurnChartSelection.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuBG.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuCursor.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuButtonNotSelected.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuButtonSelected.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\playerTechniqueMenuBG.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleArrow.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleAttack.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleBlock.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattleAttack.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleAttack.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleAttack.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleBlock.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleCastSpell.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleDamage.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleDeath.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleIdle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattlePortrait.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleRevived.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleRun.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleStart.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleVictory.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\InfoBarBG.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleCastSpell.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleHealEffect.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\buffArrow.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\battleInventoryMenuBG.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\GameOverMenuBG.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\StatusBoxBG.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\updateBarBG.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\selectCharacterMenuBG.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\spendPointsNotSelected.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\spendPointsSelected.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\inventoryStatusBG.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\questStatusBG.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\General\ThanksForPlayingBG.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Thug\ThugBattleAttack.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Thug\ThugBattleAttack2.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Thug\ThugBattleDamage.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Thug\ThugBattleDeath.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Thug\ThugIdle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Thug\ThugRun.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Thug\ThugBattleSpell.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Thug\ThugLand.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Thug\ThugFall.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossMap.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyMap.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleMap.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Montagne\MontagneMap.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\EnemyDifficultyList.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\BattleItemDataList.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\PlayerStatsList.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Thug\ThugBattle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Thug\ThugMap.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BookmanOldStyleSize8.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\BookmanOldStyleSize6.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\Race To Action.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\cursorMove.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\enemyDeath.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\jump.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\land.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\toBattleEffect.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\victory.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\walkStep.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\battle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\redCrystalCollected.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\dash.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\menuPopUp.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\guyPunch1.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\guyPunch2.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\loss.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\crossAttackSound.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\shellyBowFireSound.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\shellyArrowHitSound.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\turtleAttackHitSound.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\beastAttackHitSound.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\expAddSound.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\levelUpSound.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\newTechniqueSound.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\dialogSound.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\menuCancel.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\menuConfirm.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\elecDoorOpening.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Audio\thanksForPlaying.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyFall.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyIdle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyJump.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyLand.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyPortrait.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyRun.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyMap.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\building.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\coveredcrate.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\buildingdoorclosedunlocked.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\buildingdooropening.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\townbattlebg.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\insidebuilding.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\cornerbuilding.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\cornerbuilding2.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\insidebuildingground.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\cornerpillar.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\cornerpillar2.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\smallbanner.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Town1.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Town2.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\InsideTutorialBuilding.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\townBG.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\barrel.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\boat.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\buildingset1.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\cornerbuilding3.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\hydrant.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\lamppost.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Town3.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\toForestSign.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Forest\toTownSign.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Apron Man\ApronManIdle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Apron Man\ApronManPortrait.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Boy\BoyIdle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Boy\BoyPortrait.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Girl\GirlIdle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Girl\GirlPortrait.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Pirate\PirateIdle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Pirate\PiratePortrait.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Pirate\PirateMap.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Security\SecurityIdle.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Security\SecurityPortrait.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Security\SecurityMap.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Forest1.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Forest\forestBG.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Forest\grassground.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Forest\forestbattleBG.xnb
+C:\Users\Andrew\Desktop\Project Work\RPGProject\bin\x86\Debug\Content\storyquest1.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\building.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\coveredcrate.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\buildingdoorclosedunlocked.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\buildingdooropening.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\townbattlebg.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\townBG.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\insidebuilding.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\cornerbuilding.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\cornerbuilding2.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\insidebuildingground.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\cornerpillar.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\cornerpillar2.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\smallbanner.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyFall.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyIdle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyJump.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyLand.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyPortrait.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyRun.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\barrel.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\boat.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\buildingset1.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\cornerbuilding3.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\hydrant.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\lamppost.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\toForestSign.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Forest\toTownSign.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Apron Man\ApronManIdle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Apron Man\ApronManPortrait.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Boy\BoyIdle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Boy\BoyPortrait.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Girl\GirlIdle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Girl\GirlPortrait.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Pirate\PirateIdle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Pirate\PiratePortrait.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Security\SecurityIdle.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Security\SecurityPortrait.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Forest\forestBG.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Forest\grassground.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Forest\forestbattleBG.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Town1.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Town2.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\InsideTutorialBuilding.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyMap.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Town3.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Pirate\PirateMap.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Security\SecurityMap.xnb
+E:\Project Work\RPGProject\bin\x86\Debug\Content\Forest1.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\obj\x86\Debug\RPGProject.exe
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\obj\x86\Debug\RPGProject.pdb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Forest\toTownSign.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleVictory.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Thug\ThugBattleSpell.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BookmanOldStyleSize8.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\EnemyBattlePortrait2.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\buildingdooropening.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\EnemyDifficultyList.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleCastSpell.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleArrow.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Blank.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleCastSpell.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleBlock.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleAttack.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\battle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Thug\ThugMap.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\playerTechniqueMenuBG.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyMap.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Boy\BoyPortrait.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleRun.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\levelUpSound.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\BattleItemDataList.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\shellyBowFireSound.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\cursorMove.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\marbleplatform.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossFall.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattlePortrait.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Apron Man\ApronManPortrait.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleMap.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattlePortrait.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\hydrant.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleAttack.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyFall.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\elecDoorOpening.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\redcrystalcollected.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\dialogSound.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\GameOverMenuBG.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleRevived.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleVictory.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Thug\ThugBattle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Town2.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleDeath.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Girl\GirlIdle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuBG.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\redcrystal.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuCursor.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyPortrait.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleAttack.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\YButton.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\walkStep.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyPortrait.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleBlock.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\spendPointsSelected.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\building.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyIdle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossJump.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleAttack.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattlePortrait.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleFall.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleIdle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Security\SecurityPortrait.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\cornerbuilding.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleDamage.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\AButton.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\jump.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyRun.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\BButton.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleRun.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\townBG.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyMap.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\LeftArrow.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Forest\forestBG.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\cornerbuilding3.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\BattleHUD.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyJump.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\selectCharacterMenuBG.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleRun.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Boy\BoyIdle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\barrel.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\thanksForPlaying.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Montagne\MontagneMap.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleStart.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleHealEffect.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\ThanksForPlayingBG.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattleAttack.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\updateBarBG.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleCastSpell.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossRun.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuButtonNotSelected.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\cornerpillar2.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Town1.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\townground.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyFall.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\inventoryStatusBG.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\menuConfirm.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\newTechniqueSound.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\dash.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleRevived.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyLand.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossLand.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Thug\ThugLand.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\coveredcrate.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\redCrystalCollected.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\InsideTutorialBuilding.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleIdle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\crossAttackSound.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleBlock.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyJump.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\buildingdoorclosedunlocked.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\DownArrow.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\playerTurnMenuButtonSelected.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyRun.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\buffArrow.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattleDamage.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\expAddSound.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\XButton.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\guyPunch2.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Thug\ThugRun.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\InfoBarBG.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\boat.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\loss.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BookmanOldStyleSize6.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Forest\forestbattleBG.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleRun.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\beastAttackHitSound.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Thug\ThugBattleDamage.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\questStatusBG.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleDeath.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossMap.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Montagne\MontagneIdle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Town3.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Forest\grassground.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\TurnChartSelection.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossPortrait.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\victory.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\battleInventoryMenuBG.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\StatusBar.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Pirate\PirateMap.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\PlayerStatsList.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\buildingset1.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Thug\ThugBattleAttack2.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleStart.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\RightArrow.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Shelly\ShellyIdle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Turtle\TurtleBattleDeath.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleRun.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\land.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\toBattleEffect.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\turtleAttackHitSound.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Thug\ThugIdle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\UpArrow.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleLand.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleDamage.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\menuCancel.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Montagne\MontagnePortrait.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\Race To Action.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Security\SecurityMap.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleDamage.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleRevived.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Apron Man\ApronManIdle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Black.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\EnemyBattlePortrait1.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\insidebuildingground.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\HPBar.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\Dialog\DialogBox.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Security\SecurityIdle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Beast\BeastBattleIdle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleStart.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\TurnChartBG.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Cross\CrossIdle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\spendPointsNotSelected.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\toForestSign.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\guyPunch1.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleIdle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\cornerpillar.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\lamppost.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\enemyDeath.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Guy\GuyLand.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Girl\GirlPortrait.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\menuPopUp.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleDeath.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Thug\ThugFall.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Cross\CrossBattleDamage.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Shelly\ShellyBattleDeath.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\cornerbuilding2.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Audio\shellyArrowHitSound.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Guy\GuyBattleVictory.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\brownwall.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\townbattlebg.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\EnemyBattlePortrait3.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapObstacles\slope.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Pirate\PiratePortrait.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\storyquest1.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\insidebuilding.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\StatusBoxBG.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Thug\ThugBattleDeath.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\BattleCharacters\Thug\ThugBattleAttack.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\General\MPBar.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Turtle\TurtleIdle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\MapCharacters\Pirate\PirateIdle.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Scenery\Town\smallbanner.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\Content\Forest1.xnb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\RPGProject.exe
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\RPGProject.pdb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\RPGProjectLibrary.dll
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\bin\x86\Debug\RPGProjectLibrary.pdb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

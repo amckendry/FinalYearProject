@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- Example of a map character. This character is used as a enemy character.
+       Note that if this character would become a player character at any stage in the game story, this structure would remain the same.
+  -->
+  <Asset Type="RPGProjectLibrary.MapCharacterData">
+    <idleSpriteData>
+      <textureFileName>MapCharacters\Turtle\TurtleIdle</textureFileName>
+      <totalFrames>4</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>32</height>
+        <width>54</width>
+        <offset>0 20</offset>
+      </collisionBoxData>
+    </idleSpriteData>
+    <runSpriteData>
+      <textureFileName>MapCharacters\Turtle\TurtleRun</textureFileName>
+      <totalFrames>6</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>32</height>
+        <width>54</width>
+        <offset>0 20</offset>
+      </collisionBoxData>
+    </runSpriteData>
+    <jumpSpriteData>
+      <textureFileName>MapCharacters/Turtle/TurtleIdle</textureFileName>
+      <totalFrames>4</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>32</height>
+        <width>54</width>
+        <offset>0 20</offset>
+      </collisionBoxData>
+    </jumpSpriteData>
+    <fallSpriteData>
+      <textureFileName>MapCharacters/Turtle/TurtleFall</textureFileName>
+      <totalFrames>2</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>32</height>
+        <width>54</width>
+        <offset>0 20</offset>
+      </collisionBoxData>
+    </fallSpriteData>
+    <landSpriteData>
+      <textureFileName>MapCharacters/Turtle/TurtleLand</textureFileName>
+      <totalFrames>2</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>32</height>
+        <width>54</width>
+        <offset>0 20</offset>
+      </collisionBoxData>
+    </landSpriteData>
+    <deathSpriteData>
+      <textureFileName>BattleCharacters/Turtle/TurtleBattleDeath</textureFileName>
+      <totalFrames>6</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>32</height>
+        <width>54</width>
+        <offset>0 20</offset>
+      </collisionBoxData>
+    </deathSpriteData>
+    <portraitTextureName>Blank</portraitTextureName>
+    <walkSpeed>0.1</walkSpeed>
+    <airInfluence>0.0</airInfluence>
+    <frictionFactor>1.11</frictionFactor>
+    <jumpStrength>0</jumpStrength>
+    <mass>0.08</mass>
+  </Asset>
+</XnaContent>

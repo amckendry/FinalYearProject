@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- 
+        Example of a map character. This character is only used as an NPC, so most sprites are the same. 
+        Note that if this character would become a player character at any stage in the game story, this structure would remain the same.
+  -->
+    <Asset Type="RPGProjectLibrary.MapCharacterData">
+      <idleSpriteData>
+        <textureFileName>MapCharacters\Montagne\MontagneIdle</textureFileName>
+        <totalFrames>1</totalFrames>
+        <fps>10</fps>
+        <collisionBoxData>
+          <height>80</height>
+          <width>34</width>
+          <offset>0 22</offset>
+        </collisionBoxData>
+      </idleSpriteData>
+      <runSpriteData>
+        <textureFileName>MapCharacters\Montagne\MontagneIdle</textureFileName>
+        <totalFrames>1</totalFrames>
+        <fps>10</fps>
+        <collisionBoxData>
+          <height>80</height>
+          <width>34</width>
+          <offset>0 22</offset>
+        </collisionBoxData>
+      </runSpriteData>
+      <jumpSpriteData>
+        <textureFileName>MapCharacters\Montagne\MontagneIdle</textureFileName>
+        <totalFrames>1</totalFrames>
+        <fps>10</fps>
+        <collisionBoxData>
+          <height>80</height>
+          <width>34</width>
+          <offset>0 22</offset>
+        </collisionBoxData>
+      </jumpSpriteData>
+      <fallSpriteData>
+        <textureFileName>MapCharacters\Montagne\MontagneIdle</textureFileName>
+        <totalFrames>1</totalFrames>
+        <fps>10</fps>
+        <collisionBoxData>
+          <height>80</height>
+          <width>34</width>
+          <offset>0 22</offset>
+        </collisionBoxData>
+      </fallSpriteData>
+      <landSpriteData>
+        <textureFileName>MapCharacters\Montagne\MontagneIdle</textureFileName>
+        <totalFrames>1</totalFrames>
+        <fps>10</fps>
+        <collisionBoxData>
+          <height>80</height>
+          <width>34</width>
+          <offset>0 22</offset>
+        </collisionBoxData>
+      </landSpriteData>
+      <deathSpriteData>
+        <textureFileName></textureFileName>
+        <totalFrames>0</totalFrames>
+        <fps>0</fps>
+        <collisionBoxData>
+          <height>0</height>
+          <width>0</width>
+          <offset>0 0</offset>
+        </collisionBoxData>
+      </deathSpriteData>
+      <portraitTextureName>MapCharacters/Montagne/MontagnePortrait</portraitTextureName>
+      <walkSpeed>0.5</walkSpeed>
+      <airInfluence>0.0</airInfluence>
+      <frictionFactor>1.1</frictionFactor>
+      <jumpStrength>0</jumpStrength>
+      <mass>0.06</mass>
+    </Asset>
+</XnaContent>

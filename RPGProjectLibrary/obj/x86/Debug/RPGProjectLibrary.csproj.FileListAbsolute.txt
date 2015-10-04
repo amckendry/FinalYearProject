@@ -1,0 +1,48 @@
+C:\Users\Andrew\Desktop\RPGProjectLibrary\bin\x86\Debug\RPGProjectLibrary.dll
+C:\Users\Andrew\Desktop\RPGProjectLibrary\bin\x86\Debug\RPGProjectLibrary.pdb
+C:\Users\Andrew\Desktop\RPGProjectLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\RPGProjectLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew\Desktop\RPGProjectLibrary\obj\x86\Debug\RPGProjectLibrary.dll
+C:\Users\Andrew\Desktop\RPGProjectLibrary\obj\x86\Debug\RPGProjectLibrary.pdb
+E:\Project Work\RPGProjectLibrary\bin\x86\Debug\RPGProjectLibrary.dll
+E:\Project Work\RPGProjectLibrary\bin\x86\Debug\RPGProjectLibrary.pdb
+E:\Project Work\RPGProjectLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project Work\RPGProjectLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Project Work\RPGProjectLibrary\obj\x86\Debug\RPGProjectLibrary.dll
+E:\Project Work\RPGProjectLibrary\obj\x86\Debug\RPGProjectLibrary.pdb
+F:\Project Work\RPGProjectLibrary\bin\x86\Debug\RPGProjectLibrary.dll
+F:\Project Work\RPGProjectLibrary\bin\x86\Debug\RPGProjectLibrary.pdb
+F:\Project Work\RPGProjectLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project Work\RPGProjectLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Project Work\RPGProjectLibrary\obj\x86\Debug\RPGProjectLibrary.dll
+F:\Project Work\RPGProjectLibrary\obj\x86\Debug\RPGProjectLibrary.pdb
+C:\Users\Andrew\Desktop\Project Work\RPGProjectLibrary\bin\x86\Debug\RPGProjectLibrary.dll
+C:\Users\Andrew\Desktop\Project Work\RPGProjectLibrary\bin\x86\Debug\RPGProjectLibrary.pdb
+C:\Users\Andrew\Desktop\Project Work\RPGProjectLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\Project Work\RPGProjectLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew\Desktop\Project Work\RPGProjectLibrary\obj\x86\Debug\RPGProjectLibrary.dll
+C:\Users\Andrew\Desktop\Project Work\RPGProjectLibrary\obj\x86\Debug\RPGProjectLibrary.pdb
+E:\Game Development\Project Work\RPGProjectLibrary\bin\x86\Debug\RPGProjectLibrary.dll
+E:\Game Development\Project Work\RPGProjectLibrary\bin\x86\Debug\RPGProjectLibrary.pdb
+E:\Game Development\Project Work\RPGProjectLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Game Development\Project Work\RPGProjectLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Game Development\Project Work\RPGProjectLibrary\obj\x86\Debug\RPGProjectLibrary.dll
+E:\Game Development\Project Work\RPGProjectLibrary\obj\x86\Debug\RPGProjectLibrary.pdb
+G:\Project Work\RPGProjectLibrary\bin\x86\Debug\RPGProjectLibrary.dll
+G:\Project Work\RPGProjectLibrary\bin\x86\Debug\RPGProjectLibrary.pdb
+G:\Project Work\RPGProjectLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Project Work\RPGProjectLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Project Work\RPGProjectLibrary\obj\x86\Debug\RPGProjectLibrary.dll
+G:\Project Work\RPGProjectLibrary\obj\x86\Debug\RPGProjectLibrary.pdb
+H:\Project Work\RPGProjectLibrary\bin\x86\Debug\RPGProjectLibrary.dll
+H:\Project Work\RPGProjectLibrary\bin\x86\Debug\RPGProjectLibrary.pdb
+H:\Project Work\RPGProjectLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Project Work\RPGProjectLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Project Work\RPGProjectLibrary\obj\x86\Debug\RPGProjectLibrary.dll
+H:\Project Work\RPGProjectLibrary\obj\x86\Debug\RPGProjectLibrary.pdb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProjectLibrary\bin\x86\Debug\RPGProjectLibrary.dll
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProjectLibrary\bin\x86\Debug\RPGProjectLibrary.pdb
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProjectLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProjectLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProjectLibrary\obj\x86\Debug\RPGProjectLibrary.dll
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProjectLibrary\obj\x86\Debug\RPGProjectLibrary.pdb

@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- Example of a player with attack, defend and a stat buffing skill.-->
+  <Asset Type="RPGProjectLibrary.PlayerBattleCharacterData">
+    <name>Cross</name>
+    <battlePortraitFileName>BattleCharacters/Cross/CrossBattlePortrait</battlePortraitFileName>
+    <drawOffset>66</drawOffset>
+    <runSpeed>5</runSpeed>
+    <battleStartAnimation>
+      <textureFileName>BattleCharacters/Cross/CrossBattleStart</textureFileName>
+      <totalFrames>14</totalFrames>
+      <fps>15</fps>
+    </battleStartAnimation>
+    <idleAnimation>
+      <textureFileName>BattleCharacters/Cross/CrossBattleIdle</textureFileName>
+      <totalFrames>6</totalFrames>
+      <fps>10</fps>
+    </idleAnimation>
+    <runAnimation>
+      <textureFileName>BattleCharacters/Cross/CrossBattleRun</textureFileName>
+      <totalFrames>6</totalFrames>
+      <fps>10</fps>
+    </runAnimation>
+    <damageAnimation>
+      <textureFileName>BattleCharacters/Cross/CrossBattleDamage</textureFileName>
+      <totalFrames>5</totalFrames>
+      <fps>10</fps>
+    </damageAnimation>
+    <deathAnimation>
+        <textureFileName>BattleCharacters/Cross/CrossBattleDeath</textureFileName>
+        <totalFrames>2</totalFrames>
+        <fps>10</fps>
+    </deathAnimation>
+    <revivedAnimation>
+      <textureFileName>BattleCharacters/Cross/CrossBattleRevived</textureFileName>
+      <totalFrames>2</totalFrames>
+      <fps>10</fps>
+    </revivedAnimation>
+    <victoryAnimation>
+        <textureFileName>BattleCharacters/Cross/CrossBattleVictory</textureFileName>
+        <totalFrames>3</totalFrames>
+        <fps>10</fps>
+    </victoryAnimation>
+    <itemAnimation>
+      <textureFileName>BattleCharacters/Cross/CrossBattleCastSpell</textureFileName>
+      <totalFrames>5</totalFrames>
+      <fps>10</fps>
+    </itemAnimation>
+    <techniques>
+      <Item>
+        <!-- Example of a basic attack technique. -->
+        <techniqueName>Attack</techniqueName>
+        <techniqueDescription>A standard sword swipe.</techniqueDescription>
+        <techniqueRange>Direct</techniqueRange>
+        <techniqueTargeting>SingleEnemy</techniqueTargeting>
+        <techniqueCost>0</techniqueCost>
+        <characterAnimation>
+          <textureFileName>BattleCharacters/Cross/CrossBattleAttack</textureFileName>
+          <totalFrames>8</totalFrames>
+          <fps>10</fps>
+        </characterAnimation>
+        <effects></effects>
+        <actions>
+          <Item>
+            <actionTime>3</actionTime>
+            <actionType>Damage</actionType>
+            <actionStatType>Physical</actionStatType>
+            <strength>10</strength>
+          </Item>
+        </actions>
+        <buffs></buffs>
+        <sounds>
+          <Item>
+          <soundTime>3</soundTime>
+          <soundFileName>Audio/crossAttackSound</soundFileName>
+          </Item>
+        </sounds>
+      </Item>
+      <Item>
+        <!-- Example of a basic defend technique. -->
+        <techniqueName>Defend</techniqueName>
+        <techniqueDescription>Guard with side of sword.</techniqueDescription>
+        <techniqueRange>Direct</techniqueRange>
+        <techniqueTargeting>Self</techniqueTargeting>
+        <techniqueCost>0</techniqueCost>
+        <characterAnimation>
+          <textureFileName>BattleCharacters/Cross/CrossBattleBlock</textureFileName>
+          <totalFrames>2</totalFrames>
+          <fps>10</fps>
+        </characterAnimation>
+        <effects></effects>
+        <actions>
+        </actions>
+        <buffs></buffs>
+        <sounds></sounds>
+      </Item>
+      <Item>
+        <!-- Example of a basic stat buffing technique. -->
+        <techniqueName>Conviction</techniqueName>
+        <techniqueDescription>Powers up Cross' Attack.</techniqueDescription>
+        <techniqueRange>Direct</techniqueRange>
+        <techniqueTargeting>Self</techniqueTargeting>
+        <techniqueCost>5</techniqueCost>
+        <characterAnimation>
+          <textureFileName>BattleCharacters/Cross/CrossBattleCastSpell</textureFileName>
+          <totalFrames>5</totalFrames>
+          <fps>10</fps>
+        </characterAnimation>
+        <effects>
+        </effects>
+        <actions>
+        </actions>
+        <buffs>
+          <!-- Example of multiple timed stat buffs. -->
+          <Item>
+          <buffTime>4</buffTime>
+          <buffType>ATK</buffType>
+          <buffStrength>100</buffStrength>
+          <duration>3</duration>
+          </Item>
+          <Item>
+            <buffTime>4</buffTime>
+            <buffType>SPD</buffType>
+            <buffStrength>-100</buffStrength>
+            <duration>3</duration>
+          </Item>
+        </buffs>
+        <sounds></sounds>
+      </Item>
+    </techniques>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- 
+       Example of a map character. This character is used as an alternate player character, put in to demonstrate the ease of changing characters for designers creating a game using this system.
+       To change to this player character, change GlobalGameInfo.CurrentPlayerCharacter to CharacterIdentity.Shelly in the ScreenManager.cs LoadContent() method.-->
+  <Asset Type="RPGProjectLibrary.MapCharacterData">
+    <idleSpriteData>
+      <textureFileName>MapCharacters\Shelly\ShellyIdle</textureFileName>
+      <totalFrames>1</totalFrames>
+      <fps>15</fps>
+      <collisionBoxData>
+        <height>68</height>
+        <width>28</width>
+        <offset>0 28</offset>
+      </collisionBoxData>
+    </idleSpriteData>
+    <runSpriteData>
+      <textureFileName>MapCharacters\Shelly\ShellyRun</textureFileName>
+      <totalFrames>6</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>65</height>
+        <width>28</width>
+        <offset>0 28</offset>
+      </collisionBoxData>
+    </runSpriteData>
+    <jumpSpriteData>
+      <textureFileName>MapCharacters/Shelly/ShellyJump</textureFileName>
+      <totalFrames>2</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>68</height>
+        <width>28</width>
+        <offset>0 28</offset>
+      </collisionBoxData>
+    </jumpSpriteData>
+    <fallSpriteData>
+      <textureFileName>MapCharacters/Shelly/ShellyFall</textureFileName>
+      <totalFrames>2</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>68</height>
+        <width>28</width>
+        <offset>0 28</offset>
+      </collisionBoxData>
+    </fallSpriteData>
+    <landSpriteData>
+      <textureFileName>MapCharacters/Shelly/ShellyLand</textureFileName>
+      <totalFrames>1</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>68</height>
+        <width>28</width>
+        <offset>0 28</offset>
+      </collisionBoxData>
+    </landSpriteData>
+    <deathSpriteData>
+      <textureFileName></textureFileName>
+      <totalFrames>0</totalFrames>
+      <fps>0</fps>
+      <collisionBoxData>
+        <height>0</height>
+        <width>0</width>
+        <offset>0 0</offset>
+      </collisionBoxData>
+    </deathSpriteData>
+    <portraitTextureName>MapCharacters/Shelly/ShellyPortrait</portraitTextureName>
+    <walkSpeed>1.0</walkSpeed>
+    <airInfluence>0.2</airInfluence>
+    <frictionFactor>1.2</frictionFactor>
+    <jumpStrength>17</jumpStrength>
+    <mass>0.05</mass>
+  </Asset>
+</XnaContent>

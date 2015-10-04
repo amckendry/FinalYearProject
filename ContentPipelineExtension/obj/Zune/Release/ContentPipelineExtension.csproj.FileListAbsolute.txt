@@ -1,0 +1,7 @@
+C:\Users\Andrew\Desktop\AMck - Project Work\ContentPipelineExtension\bin\Zune\Release\ContentPipelineExtension.dll
+C:\Users\Andrew\Desktop\AMck - Project Work\ContentPipelineExtension\bin\Zune\Release\ContentPipelineExtension.pdb
+C:\Users\Andrew\Desktop\AMck - Project Work\ContentPipelineExtension\bin\Zune\Release\RPGProjectLibrary.dll
+C:\Users\Andrew\Desktop\AMck - Project Work\ContentPipelineExtension\bin\Zune\Release\RPGProjectLibrary.pdb
+C:\Users\Andrew\Desktop\AMck - Project Work\ContentPipelineExtension\obj\Zune\Release\ResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\AMck - Project Work\ContentPipelineExtension\obj\Zune\Release\ContentPipelineExtension.dll
+C:\Users\Andrew\Desktop\AMck - Project Work\ContentPipelineExtension\obj\Zune\Release\ContentPipelineExtension.pdb

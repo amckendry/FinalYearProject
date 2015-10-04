@@ -1,0 +1,187 @@
+31b97882d6854c6cad8e4c51dfe34b34
+0
+Andrews 360
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\
+129131570740000000
+F:\Project Work\RPGProject\GameThumbnail.png
+2009-12-06T20:27:08.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\RPGProjectLibrary.dll
+2010-03-15T20:03:02.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\RPGProject.exe
+2010-03-15T20:04:28.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\Black.xnb
+2010-03-15T20:03:50.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\Blank.xnb
+2010-03-15T20:03:54.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\TestStage_1.xnb
+2010-03-15T20:04:24.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\TestStage_2.xnb
+2010-03-15T20:04:24.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\TestStage_3.xnb
+2010-03-15T20:04:24.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\storyquest1.xnb
+2010-03-15T20:04:24.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BookmanOldStyle.xnb
+2010-03-15T20:04:26.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\AButton.xnb
+2010-03-15T20:04:06.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\BButton.xnb
+2010-03-15T20:04:06.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\DownArrow.xnb
+2010-03-15T20:04:06.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\LeftArrow.xnb
+2010-03-15T20:04:06.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\RightArrow.xnb
+2010-03-15T20:04:06.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\UpArrow.xnb
+2010-03-15T20:04:06.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\XButton.xnb
+2010-03-15T20:04:08.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\YButton.xnb
+2010-03-15T20:04:08.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\redcrystal.xnb
+2010-03-15T20:04:08.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\redcrystalcollected.xnb
+2010-03-15T20:04:10.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\BattleHUD.xnb
+2010-03-15T20:04:10.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\EnemyBattlePortrait1.xnb
+2010-03-15T20:04:24.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\EnemyBattlePortrait2.xnb
+2010-03-15T20:04:24.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\EnemyBattlePortrait3.xnb
+2010-03-15T20:04:24.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\TurnChartBG.xnb
+2010-03-15T20:04:24.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\StatusBar.xnb
+2010-03-15T20:04:24.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\Dialog\DialogBox.xnb
+2010-03-15T20:03:56.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\Scenery\building.xnb
+2010-03-15T20:03:54.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\Scenery\coveredcrate.xnb
+2010-03-15T20:03:54.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\Scenery\buildingdoorclosedunlocked.xnb
+2010-03-15T20:03:56.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\Scenery\buildingdooropening.xnb
+2010-03-15T20:03:56.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\Scenery\townbattlebg.xnb
+2010-03-15T20:04:10.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapObstacles\marbleplatform.xnb
+2010-03-15T20:03:46.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapObstacles\brownwall.xnb
+2010-03-15T20:03:50.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapObstacles\slope.xnb
+2010-03-15T20:03:50.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapObstacles\townground.xnb
+2010-03-15T20:03:54.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Montagne\MontagneIdle.xnb
+2010-03-15T20:03:54.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Montagne\MontagnePortrait.xnb
+2010-03-15T20:04:06.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Montagne\Montagne.xnb
+2010-03-15T20:04:24.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Shelly\ShellyIdle.xnb
+2010-03-15T20:03:50.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Shelly\ShellyRun.xnb
+2010-03-15T20:03:52.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Shelly\ShellyFall.xnb
+2010-03-15T20:03:52.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Shelly\ShellyJump.xnb
+2010-03-15T20:03:52.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Shelly\ShellyLand.xnb
+2010-03-15T20:03:52.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Shelly\ShellyPortrait.xnb
+2010-03-15T20:04:06.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Shelly\Shelly.xnb
+2010-03-15T20:04:24.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Turtle\TurtleFall.xnb
+2010-03-15T20:03:46.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Turtle\TurtleIdle.xnb
+2010-03-15T20:03:48.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Turtle\TurtleLand.xnb
+2010-03-15T20:03:48.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Turtle\TurtleRun.xnb
+2010-03-15T20:03:48.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Turtle\Turtle.xnb
+2010-03-15T20:04:24.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Cross\CrossFall.xnb
+2010-03-15T20:03:44.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Cross\CrossIdle.xnb
+2010-03-15T20:03:44.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Cross\CrossJump.xnb
+2010-03-15T20:03:44.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Cross\CrossRun.xnb
+2010-03-15T20:03:44.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Cross\CrossWalk.xnb
+2010-03-15T20:03:46.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Cross\CrossLand.xnb
+2010-03-15T20:03:48.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Cross\CrossPortrait.xnb
+2010-03-15T20:04:06.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Cross\Cross.xnb
+2010-03-15T20:04:24.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\EnemyDifficultyList.xnb
+2010-03-15T20:04:26.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Beast\BeastBattleDamage.xnb
+2010-03-15T20:04:20.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Beast\BeastBattleDeath.xnb
+2010-03-15T20:04:20.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Beast\BeastBattleIdle.xnb
+2010-03-15T20:04:22.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Beast\BeastBattleRun.xnb
+2010-03-15T20:04:22.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Beast\BeastBattle.xnb
+2010-03-15T20:04:26.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Turtle\TurtleBattleDamage.xnb
+2010-03-15T20:04:14.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Turtle\TurtleBattleDeath.xnb
+2010-03-15T20:04:14.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Turtle\TurtleBattle.xnb
+2010-03-15T20:04:26.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattleStart.xnb
+2010-03-15T20:04:06.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattleDamage.xnb
+2010-03-15T20:04:14.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattleDeath.xnb
+2010-03-15T20:04:14.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattleIdle.xnb
+2010-03-15T20:04:16.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattleRevived.xnb
+2010-03-15T20:04:16.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattleRun.xnb
+2010-03-15T20:04:16.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattleVictory.xnb
+2010-03-15T20:04:18.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattlePortrait.xnb
+2010-03-15T20:04:24.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattle.xnb
+2010-03-15T20:04:26.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleAttack.xnb
+2010-03-15T20:03:56.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleBlock.xnb
+2010-03-15T20:03:58.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleCastSpell.xnb
+2010-03-15T20:04:00.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleDamage.xnb
+2010-03-15T20:04:00.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleRevived.xnb
+2010-03-15T20:04:02.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleIdle.xnb
+2010-03-15T20:04:02.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleRun.xnb
+2010-03-15T20:04:02.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleStart.xnb
+2010-03-15T20:04:04.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleDeath.xnb
+2010-03-15T20:04:12.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleVictory.xnb
+2010-03-15T20:04:12.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattlePortrait.xnb
+2010-03-15T20:04:24.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattle.xnb
+2010-03-15T20:04:26.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Hibito\HibitoBattleIdle.xnb
+2010-03-15T20:03:40.0000000Z
+F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Asuka\AsukaBattleIdle.xnb
+2010-03-15T20:03:38.0000000Z

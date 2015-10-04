@@ -1,0 +1,213 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProjectGuid>{092EB07B-51A4-4613-AA56-1F5C222431E2}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RPGProject</RootNamespace>
+    <AssemblyName>RPGProject</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <XnaFrameworkVersion>v3.1</XnaFrameworkVersion>
+    <XnaPlatform>Windows</XnaPlatform>
+    <XnaCrossPlatformGroupID>d84835d9-dbc5-4720-a922-6b06b4e6a2cf</XnaCrossPlatformGroupID>
+    <ApplicationIcon>Game.ico</ApplicationIcon>
+    <Thumbnail>GameThumbnail.png</Thumbnail>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>7590CD540694C46B35F91082DDC7B21D5B84DA67</ManifestCertificateThumbprint>
+    <ManifestKeyFile>RPGProject_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <PublishUrl>C:\Users\Andrew\Desktop\AMck - Project Work\Publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>true</XnaCompressContent>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=x86">
+      <Private>False</Private>
+      <SpecificVersion>True</SpecificVersion>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=3.1.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=MSIL">
+      <Private>False</Private>
+      <SpecificVersion>True</SpecificVersion>
+    </Reference>
+    <Reference Include="mscorlib">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Battle\BattleCharacter.cs" />
+    <Compile Include="Battle\BattleCharacterDrawPositionSorter.cs" />
+    <Compile Include="Battle\BattleCharacterSpeedSorter.cs" />
+    <Compile Include="Battle\BattleInventoryMenu.cs" />
+    <Compile Include="Battle\BattleItem.cs" />
+    <Compile Include="Battle\BattleTargetSelector.cs" />
+    <Compile Include="Battle\BattleTechnique.cs" />
+    <Compile Include="Battle\BattleTechniqueAction.cs" />
+    <Compile Include="Battle\BattleTechniqueBuff.cs" />
+    <Compile Include="Battle\BattleTechniqueEffect.cs" />
+    <Compile Include="Battle\EnemyBattleCharacter.cs" />
+    <Compile Include="Battle\InfoBar.cs" />
+    <Compile Include="Battle\PlayerBattleCharacter.cs" />
+    <Compile Include="Battle\CharacterTechniqueMenu.cs" />
+    <Compile Include="Controls\KeyboardController.cs" />
+    <Compile Include="Map\MapItemObject.cs" />
+    <Compile Include="Map\DialogManager.cs" />
+    <Compile Include="Drawing\AnimatedSprite.cs" />
+    <Compile Include="Global\GlobalGameInfo.cs" />
+    <Compile Include="Map\StageSectionDoor.cs" />
+    <Compile Include="Battle\BattleScreen.cs" />
+    <Compile Include="Drawing\Camera.cs" />
+    <Compile Include="Map\MapCollision\CollisionBox.cs" />
+    <Compile Include="Map\MapCollision\CollisionSensor.cs" />
+    <Compile Include="Abstract\DrawableGameObject.cs" />
+    <Compile Include="Drawing\DrawingHelper.cs" />
+    <Compile Include="Map\MapCharacters\EnemyMapCharacter.cs" />
+    <Compile Include="GameClass.cs" />
+    <Compile Include="Abstract\GameObject.cs" />
+    <Compile Include="Controls\GamePadController.cs" />
+    <Compile Include="Drawing\LineBrush.cs" />
+    <Compile Include="Map\MapCharacters\MapCharacter.cs" />
+    <Compile Include="Map\MapObstacles\MapObstacleObject.cs" />
+    <Compile Include="Menu\Menu.cs" />
+    <Compile Include="Menu\MenuOption.cs" />
+    <Compile Include="Global\PartyCharacter.cs" />
+    <Compile Include="PartyManager.cs" />
+    <Compile Include="Map\StatusUpdateBar.cs" />
+    <Compile Include="Status\PlayerCharacterStatusBox.cs" />
+    <Compile Include="Screen Management\ScreenManager.cs" />
+    <Compile Include="Map\MapScreen.cs" />
+    <Compile Include="Map\MapStageSection.cs" />
+    <Compile Include="Drawing\MultipleSpriteAnimatingObject.cs" />
+    <Compile Include="Map\MapCharacters\NPCMapCharacter.cs" />
+    <Compile Include="Map\MapCharacters\PlayerMapCharacter.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Map\MapObstacles\RectanglePlatform.cs" />
+    <Compile Include="Map\MapObstacles\RectangleWall.cs" />
+    <Compile Include="Screen Management\Screen.cs" />
+    <Compile Include="Drawing\SingleSpriteAnimatingObject.cs" />
+    <Compile Include="Drawing\TexturedGameObject.cs" />
+    <Compile Include="SoundManager.cs" />
+    <Compile Include="ThanksForPlayingScreen.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Game.ico" />
+    <Content Include="GameThumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <NestedContentProject Include="Content\Content.contentproj">
+      <Project>c1f66a56-c5a9-40b8-ba6e-8abd0215069a</Project>
+      <Visible>False</Visible>
+    </NestedContentProject>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Xna.Framework.3.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft XNA Framework Redistributable 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RPGProjectLibrary\RPGProjectLibrary.csproj">
+      <Project>{0E71DDCB-F24C-4A11-A5FD-2F9026021018}</Project>
+      <Name>RPGProjectLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="RPGProject_TemporaryKey.pfx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

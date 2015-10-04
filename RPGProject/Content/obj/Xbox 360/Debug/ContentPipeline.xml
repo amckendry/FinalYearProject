@@ -1,0 +1,1084 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BattleCharacters\Asuka\AsukaBattleIdle.bmp</Source>
+      <Name>BattleCharacters\Asuka\AsukaBattleIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Asuka\AsukaBattleIdle.xnb</Output>
+      <Time>2009-12-06T20:29:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Hibito\HibitoBattleIdle.bmp</Source>
+      <Name>BattleCharacters\Hibito\HibitoBattleIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Hibito\HibitoBattleIdle.xnb</Output>
+      <Time>2009-12-06T20:29:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Cross\CrossFall.bmp</Source>
+      <Name>MapCharacters\Cross\CrossFall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Cross\CrossFall.xnb</Output>
+      <Time>2009-12-06T20:29:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Cross\CrossIdle.bmp</Source>
+      <Name>MapCharacters\Cross\CrossIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Cross\CrossIdle.xnb</Output>
+      <Time>2010-01-20T22:58:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Cross\CrossJump.bmp</Source>
+      <Name>MapCharacters\Cross\CrossJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Cross\CrossJump.xnb</Output>
+      <Time>2009-12-06T20:29:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Cross\CrossRun.bmp</Source>
+      <Name>MapCharacters\Cross\CrossRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Cross\CrossRun.xnb</Output>
+      <Time>2009-12-06T20:29:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Cross\CrossWalk.bmp</Source>
+      <Name>MapCharacters\Cross\CrossWalk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Cross\CrossWalk.xnb</Output>
+      <Time>2009-12-06T20:29:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapObstacles\marbleplatform.bmp</Source>
+      <Name>MapObstacles\marbleplatform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapObstacles\marbleplatform.xnb</Output>
+      <Time>2009-12-06T20:29:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Turtle\TurtleFall.bmp</Source>
+      <Name>MapCharacters\Turtle\TurtleFall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Turtle\TurtleFall.xnb</Output>
+      <Time>2009-12-07T14:54:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Turtle\TurtleIdle.bmp</Source>
+      <Name>MapCharacters\Turtle\TurtleIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Turtle\TurtleIdle.xnb</Output>
+      <Time>2009-12-07T14:54:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Turtle\TurtleLand.bmp</Source>
+      <Name>MapCharacters\Turtle\TurtleLand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Turtle\TurtleLand.xnb</Output>
+      <Time>2009-12-07T14:54:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Turtle\TurtleRun.bmp</Source>
+      <Name>MapCharacters\Turtle\TurtleRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Turtle\TurtleRun.xnb</Output>
+      <Time>2009-12-07T14:54:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Cross\CrossLand.bmp</Source>
+      <Name>MapCharacters\Cross\CrossLand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Cross\CrossLand.xnb</Output>
+      <Time>2009-12-07T14:57:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Black.PNG</Source>
+      <Name>Black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\Black.xnb</Output>
+      <Time>2009-12-08T10:53:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapObstacles\brownwall.png</Source>
+      <Name>MapObstacles\brownwall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapObstacles\brownwall.xnb</Output>
+      <Time>2010-01-21T13:14:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapObstacles\slope.bmp</Source>
+      <Name>MapObstacles\slope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapObstacles\slope.xnb</Output>
+      <Time>2010-01-22T12:20:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Shelly\ShellyIdle.bmp</Source>
+      <Name>MapCharacters\Shelly\ShellyIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Shelly\ShellyIdle.xnb</Output>
+      <Time>2010-01-29T11:56:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Shelly\ShellyRun.bmp</Source>
+      <Name>MapCharacters\Shelly\ShellyRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Shelly\ShellyRun.xnb</Output>
+      <Time>2010-01-28T21:31:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Shelly\ShellyFall.bmp</Source>
+      <Name>MapCharacters\Shelly\ShellyFall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Shelly\ShellyFall.xnb</Output>
+      <Time>2010-01-28T22:03:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Shelly\ShellyJump.bmp</Source>
+      <Name>MapCharacters\Shelly\ShellyJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Shelly\ShellyJump.xnb</Output>
+      <Time>2010-01-28T21:57:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Shelly\ShellyLand.bmp</Source>
+      <Name>MapCharacters\Shelly\ShellyLand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Shelly\ShellyLand.xnb</Output>
+      <Time>2010-01-28T22:20:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapObstacles\townground.bmp</Source>
+      <Name>MapObstacles\townground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapObstacles\townground.xnb</Output>
+      <Time>2010-02-03T22:54:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Montagne\MontagneIdle.bmp</Source>
+      <Name>MapCharacters\Montagne\MontagneIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Montagne\MontagneIdle.xnb</Output>
+      <Time>2010-02-07T14:54:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Scenery\building.bmp</Source>
+      <Name>Scenery\building</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\Scenery\building.xnb</Output>
+      <Time>2010-02-10T20:30:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Scenery\coveredcrate.bmp</Source>
+      <Name>Scenery\coveredcrate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\Scenery\coveredcrate.xnb</Output>
+      <Time>2010-02-07T15:32:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Blank.bmp</Source>
+      <Name>Blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\Blank.xnb</Output>
+      <Time>2010-02-10T18:44:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Scenery\buildingdoorclosedunlocked.bmp</Source>
+      <Name>Scenery\buildingdoorclosedunlocked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\Scenery\buildingdoorclosedunlocked.xnb</Output>
+      <Time>2010-02-10T20:40:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Scenery\buildingdooropening.bmp</Source>
+      <Name>Scenery\buildingdooropening</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\Scenery\buildingdooropening.xnb</Output>
+      <Time>2010-02-10T20:40:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\Dialog\DialogBox.bmp</Source>
+      <Name>General\Dialog\DialogBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\Dialog\DialogBox.xnb</Output>
+      <Time>2010-02-13T17:57:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Cross\CrossBattleAttack.bmp</Source>
+      <Name>BattleCharacters\Cross\CrossBattleAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleAttack.xnb</Output>
+      <Time>2010-03-23T15:22:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Cross\CrossBattleBlock.bmp</Source>
+      <Name>BattleCharacters\Cross\CrossBattleBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleBlock.xnb</Output>
+      <Time>2010-03-23T16:00:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Cross\CrossBattleCastSpell.bmp</Source>
+      <Name>BattleCharacters\Cross\CrossBattleCastSpell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleCastSpell.xnb</Output>
+      <Time>2010-02-12T00:21:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Cross\CrossBattleDamage.bmp</Source>
+      <Name>BattleCharacters\Cross\CrossBattleDamage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleDamage.xnb</Output>
+      <Time>2010-03-24T19:29:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Cross\CrossBattleRevived.bmp</Source>
+      <Name>BattleCharacters\Cross\CrossBattleRevived</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleRevived.xnb</Output>
+      <Time>2009-09-16T19:01:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Cross\CrossBattleIdle.bmp</Source>
+      <Name>BattleCharacters\Cross\CrossBattleIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleIdle.xnb</Output>
+      <Time>2010-03-07T19:25:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Cross\CrossBattleRun.bmp</Source>
+      <Name>BattleCharacters\Cross\CrossBattleRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleRun.xnb</Output>
+      <Time>2010-03-23T14:55:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Cross\CrossBattleStart.bmp</Source>
+      <Name>BattleCharacters\Cross\CrossBattleStart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleStart.xnb</Output>
+      <Time>2009-09-03T13:36:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Shelly\ShellyBattleStart.bmp</Source>
+      <Name>BattleCharacters\Shelly\ShellyBattleStart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattleStart.xnb</Output>
+      <Time>2010-02-12T01:14:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Shelly\ShellyPortrait.bmp</Source>
+      <Name>MapCharacters\Shelly\ShellyPortrait</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Shelly\ShellyPortrait.xnb</Output>
+      <Time>2010-02-13T18:07:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Cross\CrossPortrait.bmp</Source>
+      <Name>MapCharacters\Cross\CrossPortrait</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Cross\CrossPortrait.xnb</Output>
+      <Time>2010-02-13T18:04:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Montagne\MontagnePortrait.bmp</Source>
+      <Name>MapCharacters\Montagne\MontagnePortrait</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Montagne\MontagnePortrait.xnb</Output>
+      <Time>2010-02-13T18:15:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\AButton.bmp</Source>
+      <Name>General\AButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\AButton.xnb</Output>
+      <Time>2010-03-24T15:55:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\BButton.bmp</Source>
+      <Name>General\BButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\BButton.xnb</Output>
+      <Time>2010-03-24T15:56:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\DownArrow.bmp</Source>
+      <Name>General\DownArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\DownArrow.xnb</Output>
+      <Time>2010-02-16T21:51:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\LeftArrow.bmp</Source>
+      <Name>General\LeftArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\LeftArrow.xnb</Output>
+      <Time>2010-02-16T21:52:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\RightArrow.bmp</Source>
+      <Name>General\RightArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\RightArrow.xnb</Output>
+      <Time>2010-02-16T21:51:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\UpArrow.bmp</Source>
+      <Name>General\UpArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\UpArrow.xnb</Output>
+      <Time>2010-02-16T21:51:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\XButton.bmp</Source>
+      <Name>General\XButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\XButton.xnb</Output>
+      <Time>2010-03-24T15:57:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\YButton.bmp</Source>
+      <Name>General\YButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\YButton.xnb</Output>
+      <Time>2010-03-24T15:58:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\redcrystal.bmp</Source>
+      <Name>General\redcrystal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\redcrystal.xnb</Output>
+      <Time>2010-02-21T12:45:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\redcrystalcollected.bmp</Source>
+      <Name>General\redcrystalcollected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\redcrystalcollected.xnb</Output>
+      <Time>2010-02-21T13:18:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Scenery\townbattlebg.bmp</Source>
+      <Name>Scenery\townbattlebg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\Scenery\townbattlebg.xnb</Output>
+      <Time>2010-02-21T16:05:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\BattleHUD.bmp</Source>
+      <Name>General\BattleHUD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\BattleHUD.xnb</Output>
+      <Time>2010-02-21T17:07:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Cross\CrossBattleDeath.bmp</Source>
+      <Name>BattleCharacters\Cross\CrossBattleDeath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleDeath.xnb</Output>
+      <Time>2010-03-24T19:32:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Cross\CrossBattleVictory.bmp</Source>
+      <Name>BattleCharacters\Cross\CrossBattleVictory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattleVictory.xnb</Output>
+      <Time>2010-03-24T18:39:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Turtle\TurtleBattleDamage.bmp</Source>
+      <Name>BattleCharacters\Turtle\TurtleBattleDamage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Turtle\TurtleBattleDamage.xnb</Output>
+      <Time>2010-03-07T18:28:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Turtle\TurtleBattleDeath.bmp</Source>
+      <Name>BattleCharacters\Turtle\TurtleBattleDeath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Turtle\TurtleBattleDeath.xnb</Output>
+      <Time>2010-03-24T12:58:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Shelly\ShellyBattleDamage.bmp</Source>
+      <Name>BattleCharacters\Shelly\ShellyBattleDamage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattleDamage.xnb</Output>
+      <Time>2010-03-24T19:30:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Shelly\ShellyBattleDeath.bmp</Source>
+      <Name>BattleCharacters\Shelly\ShellyBattleDeath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattleDeath.xnb</Output>
+      <Time>2010-03-24T19:31:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Shelly\ShellyBattleIdle.bmp</Source>
+      <Name>BattleCharacters\Shelly\ShellyBattleIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattleIdle.xnb</Output>
+      <Time>2010-03-07T20:12:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Shelly\ShellyBattleRevived.bmp</Source>
+      <Name>BattleCharacters\Shelly\ShellyBattleRevived</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattleRevived.xnb</Output>
+      <Time>2010-03-07T20:32:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Shelly\ShellyBattleRun.bmp</Source>
+      <Name>BattleCharacters\Shelly\ShellyBattleRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattleRun.xnb</Output>
+      <Time>2010-03-07T20:18:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Shelly\ShellyBattleVictory.bmp</Source>
+      <Name>BattleCharacters\Shelly\ShellyBattleVictory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattleVictory.xnb</Output>
+      <Time>2010-03-07T20:37:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Beast\BeastBattleDamage.bmp</Source>
+      <Name>BattleCharacters\Beast\BeastBattleDamage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Beast\BeastBattleDamage.xnb</Output>
+      <Time>2010-03-07T21:07:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Beast\BeastBattleDeath.bmp</Source>
+      <Name>BattleCharacters\Beast\BeastBattleDeath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Beast\BeastBattleDeath.xnb</Output>
+      <Time>2010-03-24T12:58:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Beast\BeastBattleIdle.bmp</Source>
+      <Name>BattleCharacters\Beast\BeastBattleIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Beast\BeastBattleIdle.xnb</Output>
+      <Time>2010-03-07T21:23:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Beast\BeastBattleRun.bmp</Source>
+      <Name>BattleCharacters\Beast\BeastBattleRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Beast\BeastBattleRun.xnb</Output>
+      <Time>2010-03-07T21:03:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Cross\CrossBattlePortrait.bmp</Source>
+      <Name>BattleCharacters\Cross\CrossBattlePortrait</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattlePortrait.xnb</Output>
+      <Time>2010-03-15T11:17:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Shelly\ShellyBattlePortrait.bmp</Source>
+      <Name>BattleCharacters\Shelly\ShellyBattlePortrait</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattlePortrait.xnb</Output>
+      <Time>2010-03-15T11:16:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\EnemyBattlePortrait1.bmp</Source>
+      <Name>General\EnemyBattlePortrait1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\EnemyBattlePortrait1.xnb</Output>
+      <Time>2010-03-15T11:21:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\EnemyBattlePortrait2.bmp</Source>
+      <Name>General\EnemyBattlePortrait2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\EnemyBattlePortrait2.xnb</Output>
+      <Time>2010-03-15T11:23:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\EnemyBattlePortrait3.bmp</Source>
+      <Name>General\EnemyBattlePortrait3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\EnemyBattlePortrait3.xnb</Output>
+      <Time>2010-03-15T11:24:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\TurnChartBG.bmp</Source>
+      <Name>General\TurnChartBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\TurnChartBG.xnb</Output>
+      <Time>2010-03-17T18:33:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\StatusBar.bmp</Source>
+      <Name>General\StatusBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\StatusBar.xnb</Output>
+      <Time>2010-03-16T10:37:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Scenery\sampleBG.bmp</Source>
+      <Name>Scenery\sampleBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\Scenery\sampleBG.xnb</Output>
+      <Time>2010-03-16T10:27:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\HPBar.bmp</Source>
+      <Name>General\HPBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\HPBar.xnb</Output>
+      <Time>2010-03-24T16:51:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\MPBar.bmp</Source>
+      <Name>General\MPBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\MPBar.xnb</Output>
+      <Time>2010-03-24T16:51:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\TurnChartSelection.bmp</Source>
+      <Name>General\TurnChartSelection</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\TurnChartSelection.xnb</Output>
+      <Time>2010-03-16T12:56:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\playerTurnMenuBG.bmp</Source>
+      <Name>General\playerTurnMenuBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\playerTurnMenuBG.xnb</Output>
+      <Time>2010-03-17T18:11:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\playerTurnMenuCursor.bmp</Source>
+      <Name>General\playerTurnMenuCursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\playerTurnMenuCursor.xnb</Output>
+      <Time>2010-03-19T18:47:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\playerTurnMenuButtonNotSelected.bmp</Source>
+      <Name>General\playerTurnMenuButtonNotSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\playerTurnMenuButtonNotSelected.xnb</Output>
+      <Time>2010-03-17T19:42:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\playerTurnMenuButtonSelected.bmp</Source>
+      <Name>General\playerTurnMenuButtonSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\playerTurnMenuButtonSelected.xnb</Output>
+      <Time>2010-03-17T19:43:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>General\playerTechniqueMenuBG.bmp</Source>
+      <Name>General\playerTechniqueMenuBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\General\playerTechniqueMenuBG.xnb</Output>
+      <Time>2010-03-19T12:49:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Shelly\ShellyBattleArrow.bmp</Source>
+      <Name>BattleCharacters\Shelly\ShellyBattleArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattleArrow.xnb</Output>
+      <Time>2010-03-08T22:26:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Shelly\ShellyBattleAttack.bmp</Source>
+      <Name>BattleCharacters\Shelly\ShellyBattleAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattleAttack.xnb</Output>
+      <Time>2010-03-08T22:22:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Shelly\ShellyBattleBlock.bmp</Source>
+      <Name>BattleCharacters\Shelly\ShellyBattleBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattleBlock.xnb</Output>
+      <Time>2010-03-24T18:49:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Turtle\TurtleBattleAttack.bmp</Source>
+      <Name>BattleCharacters\Turtle\TurtleBattleAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Turtle\TurtleBattleAttack.xnb</Output>
+      <Time>2010-03-08T22:01:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Beast\BeastBattleAttack.bmp</Source>
+      <Name>BattleCharacters\Beast\BeastBattleAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Beast\BeastBattleAttack.xnb</Output>
+      <Time>2010-03-08T21:56:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Guy\GuyBattleAttack.bmp</Source>
+      <Name>BattleCharacters\Guy\GuyBattleAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Guy\GuyBattleAttack.xnb</Output>
+      <Time>2010-03-24T20:55:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Guy\GuyBattleBlock.bmp</Source>
+      <Name>BattleCharacters\Guy\GuyBattleBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Guy\GuyBattleBlock.xnb</Output>
+      <Time>2010-03-24T20:46:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Guy\GuyBattleCastSpell.bmp</Source>
+      <Name>BattleCharacters\Guy\GuyBattleCastSpell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Guy\GuyBattleCastSpell.xnb</Output>
+      <Time>2010-03-24T21:01:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Guy\GuyBattleDamage.bmp</Source>
+      <Name>BattleCharacters\Guy\GuyBattleDamage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Guy\GuyBattleDamage.xnb</Output>
+      <Time>2010-03-24T21:03:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Guy\GuyBattleDeath.bmp</Source>
+      <Name>BattleCharacters\Guy\GuyBattleDeath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Guy\GuyBattleDeath.xnb</Output>
+      <Time>2010-03-24T21:04:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Guy\GuyBattleIdle.bmp</Source>
+      <Name>BattleCharacters\Guy\GuyBattleIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Guy\GuyBattleIdle.xnb</Output>
+      <Time>2010-03-24T20:44:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Guy\GuyBattlePortrait.bmp</Source>
+      <Name>BattleCharacters\Guy\GuyBattlePortrait</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Guy\GuyBattlePortrait.xnb</Output>
+      <Time>2010-03-24T21:07:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Guy\GuyBattleRevived.bmp</Source>
+      <Name>BattleCharacters\Guy\GuyBattleRevived</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Guy\GuyBattleRevived.xnb</Output>
+      <Time>2010-03-24T21:05:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Guy\GuyBattleRun.bmp</Source>
+      <Name>BattleCharacters\Guy\GuyBattleRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Guy\GuyBattleRun.xnb</Output>
+      <Time>2010-03-24T20:50:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Guy\GuyBattleStart.bmp</Source>
+      <Name>BattleCharacters\Guy\GuyBattleStart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Guy\GuyBattleStart.xnb</Output>
+      <Time>2010-03-25T14:21:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Guy\GuyBattleVictory.bmp</Source>
+      <Name>BattleCharacters\Guy\GuyBattleVictory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Guy\GuyBattleVictory.xnb</Output>
+      <Time>2010-03-24T21:11:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TestStage_1.xml</Source>
+      <Name>TestStage_1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\TestStage_1.xnb</Output>
+      <Time>2010-03-16T10:19:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TestStage_2.xml</Source>
+      <Name>TestStage_2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\TestStage_2.xnb</Output>
+      <Time>2010-03-23T16:38:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Cross\Cross.xml</Source>
+      <Name>MapCharacters\Cross\Cross</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Cross\Cross.xnb</Output>
+      <Time>2010-03-05T20:57:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Shelly\Shelly.xml</Source>
+      <Name>MapCharacters\Shelly\Shelly</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Shelly\Shelly.xnb</Output>
+      <Time>2010-02-13T18:10:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Turtle\Turtle.xml</Source>
+      <Name>MapCharacters\Turtle\Turtle</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Turtle\Turtle.xnb</Output>
+      <Time>2010-02-16T14:52:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TestStage_3.xml</Source>
+      <Name>TestStage_3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\TestStage_3.xnb</Output>
+      <Time>2010-03-23T16:38:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MapCharacters\Montagne\Montagne.xml</Source>
+      <Name>MapCharacters\Montagne\Montagne</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\MapCharacters\Montagne\Montagne.xnb</Output>
+      <Time>2010-02-13T18:10:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>storyquest1.xml</Source>
+      <Name>storyquest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\storyquest1.xnb</Output>
+      <Time>2010-02-21T14:04:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Cross\CrossBattle.xml</Source>
+      <Name>BattleCharacters\Cross\CrossBattle</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Cross\CrossBattle.xnb</Output>
+      <Time>2010-03-25T22:35:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Turtle\TurtleBattle.xml</Source>
+      <Name>BattleCharacters\Turtle\TurtleBattle</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Turtle\TurtleBattle.xnb</Output>
+      <Time>2010-03-25T22:38:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Shelly\ShellyBattle.xml</Source>
+      <Name>BattleCharacters\Shelly\ShellyBattle</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Shelly\ShellyBattle.xnb</Output>
+      <Time>2010-03-25T22:35:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Beast\BeastBattle.xml</Source>
+      <Name>BattleCharacters\Beast\BeastBattle</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Beast\BeastBattle.xnb</Output>
+      <Time>2010-03-25T22:35:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\EnemyDifficultyList.xml</Source>
+      <Name>BattleCharacters\EnemyDifficultyList</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\EnemyDifficultyList.xnb</Output>
+      <Time>2010-03-12T11:18:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BattleCharacters\Guy\GuyBattle.xml</Source>
+      <Name>BattleCharacters\Guy\GuyBattle</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BattleCharacters\Guy\GuyBattle.xnb</Output>
+      <Time>2010-03-25T22:35:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BookmanOldStyleSize8.spritefont</Source>
+      <Name>BookmanOldStyleSize8</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BookmanOldStyleSize8.xnb</Output>
+      <Time>2010-02-11T19:15:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BookmanOldStyleSize6.spritefont</Source>
+      <Name>BookmanOldStyleSize6</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\BookmanOldStyleSize6.xnb</Output>
+      <Time>2010-03-16T09:41:12+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>F:\Project Work\RPGProject\Content\</RootDirectory>
+      <LoggerRootDirectory>F:\Project Work\RPGProject\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\Project Work\RPGProject\Content\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\Project Work\RPGProject\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T01:16:14+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T01:16:06+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T01:16:16+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T01:16:26+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T01:16:12+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T01:16:06+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>F:\Project Work\ContentPipelineExtension\bin\Zune\Debug\ContentPipelineExtension.dll</Key>
+        <Value>2010-03-25T15:16:30+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-11-08T20:46:34.5061139+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

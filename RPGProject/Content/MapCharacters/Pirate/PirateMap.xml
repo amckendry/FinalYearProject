@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- Example of a map character. This character is used as a player character. -->
+  <Asset Type="RPGProjectLibrary.MapCharacterData">
+    <idleSpriteData>
+      <textureFileName>MapCharacters\Pirate\PirateIdle</textureFileName>
+      <totalFrames>1</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>80</height>
+        <width>34</width>
+        <offset>0 22</offset>
+      </collisionBoxData>
+    </idleSpriteData>
+    <runSpriteData>
+      <textureFileName>MapCharacters\Pirate\PirateIdle</textureFileName>
+      <totalFrames>1</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>80</height>
+        <width>34</width>
+        <offset>0 22</offset>
+      </collisionBoxData>
+    </runSpriteData>
+    <jumpSpriteData>
+      <textureFileName>MapCharacters\Pirate\PirateIdle</textureFileName>
+      <totalFrames>1</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>80</height>
+        <width>34</width>
+        <offset>0 22</offset>
+      </collisionBoxData>
+    </jumpSpriteData>
+    <fallSpriteData>
+      <textureFileName>MapCharacters\Pirate\PirateIdle</textureFileName>
+      <totalFrames>1</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>80</height>
+        <width>34</width>
+        <offset>0 22</offset>
+      </collisionBoxData>
+    </fallSpriteData>
+    <landSpriteData>
+      <textureFileName>MapCharacters\Pirate\PirateIdle</textureFileName>
+      <totalFrames>1</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>80</height>
+        <width>34</width>
+        <offset>0 22</offset>
+      </collisionBoxData>
+    </landSpriteData>
+    <deathSpriteData>
+      <textureFileName>MapCharacters\Pirate\PirateIdle</textureFileName>
+      <totalFrames>1</totalFrames>
+      <fps>10</fps>
+      <collisionBoxData>
+        <height>80</height>
+        <width>34</width>
+        <offset>0 22</offset>
+      </collisionBoxData>
+    </deathSpriteData>
+    <portraitTextureName>MapCharacters/Pirate/PiratePortrait</portraitTextureName>
+    <walkSpeed>0.5</walkSpeed>
+    <airInfluence>0.2</airInfluence>
+    <frictionFactor>1.1</frictionFactor>
+    <jumpStrength>0</jumpStrength>
+    <mass>0.06</mass>
+  </Asset>
+</XnaContent>

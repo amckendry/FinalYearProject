@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- Example of a player with an all-targeting projectile attack, a basic defend, a healing technique and a reviving technique.-->
+  <Asset Type="RPGProjectLibrary.PlayerBattleCharacterData">
+    <name>Shelly</name>
+    <battlePortraitFileName>BattleCharacters/Shelly/ShellyBattlePortrait</battlePortraitFileName>
+    <drawOffset>64</drawOffset>
+    <runSpeed>7</runSpeed>
+    <battleStartAnimation>
+      <textureFileName>BattleCharacters/Shelly/ShellyBattleStart</textureFileName>
+      <totalFrames>9</totalFrames>
+      <fps>10</fps>
+    </battleStartAnimation>
+    <idleAnimation>
+      <textureFileName>BattleCharacters/Shelly/ShellyBattleIdle</textureFileName>
+      <totalFrames>8</totalFrames>
+      <fps>10</fps>
+    </idleAnimation>
+    <runAnimation>
+      <textureFileName>BattleCharacters/Shelly/ShellyBattleRun</textureFileName>
+      <totalFrames>6</totalFrames>
+      <fps>10</fps>
+    </runAnimation>
+    <damageAnimation>
+      <textureFileName>BattleCharacters/Shelly/ShellyBattleDamage</textureFileName>
+      <totalFrames>5</totalFrames>
+      <fps>10</fps>
+    </damageAnimation>
+    <deathAnimation>
+      <textureFileName>BattleCharacters/Shelly/ShellyBattleDeath</textureFileName>
+      <totalFrames>2</totalFrames>
+      <fps>10</fps>
+    </deathAnimation>
+    <revivedAnimation>
+      <textureFileName>BattleCharacters/Shelly/ShellyBattleRevived</textureFileName>
+      <totalFrames>2</totalFrames>
+      <fps>10</fps>
+    </revivedAnimation>
+    <victoryAnimation>
+      <textureFileName>BattleCharacters/Shelly/ShellyBattleVictory</textureFileName>
+      <totalFrames>4</totalFrames>
+      <fps>10</fps>
+    </victoryAnimation>
+    <itemAnimation>
+      <textureFileName>BattleCharacters/Shelly/ShellyBattleCastSpell</textureFileName>
+      <totalFrames>4</totalFrames>
+      <fps>10</fps>
+    </itemAnimation>
+    <techniques>
+      <Item>
+        <!-- Example of a multiple targeting projectile attack.-->
+        <techniqueName>Attack</techniqueName>
+        <techniqueDescription>Fires Arrows at all enemies.</techniqueDescription>
+        <techniqueRange>Ranged</techniqueRange>
+        <techniqueTargeting>AllEnemies</techniqueTargeting>
+        <techniqueCost>0</techniqueCost>
+        <characterAnimation>
+          <textureFileName>BattleCharacters/Shelly/ShellyBattleAttack</textureFileName>
+          <totalFrames>10</totalFrames>
+          <fps>10</fps>
+        </characterAnimation>
+        <effects>
+          <!-- Example of a technique sprite effect.-->
+          <Item>
+            <effectType>ProjectileTargeted</effectType>
+            <effectAnimation>
+              <textureFileName>BattleCharacters/Shelly/ShellyBattleArrow</textureFileName>
+              <totalFrames>2</totalFrames>
+              <fps>10</fps>
+            </effectAnimation>
+            <relativePosition>-1 19</relativePosition>
+            <speed>20</speed>
+            <startTime>8</startTime>
+            <lifeTime>5</lifeTime>
+            <effectActions>
+              <!-- Example of a damage action being linked to a technique effect.-->
+              <Item>
+                <actionTime>2</actionTime>
+                <actionType>Damage</actionType>
+                <actionStatType>Physical</actionStatType>
+                <strength>8</strength>
+              </Item>
+            </effectActions>
+            <effectBuffs></effectBuffs>
+            <effectSounds>
+              <!-- Example of a sound effect being linked to a technique effect.-->
+              <Item>
+                <soundTime>2</soundTime>
+                <soundFileName>Audio/shellyArrowHitSound</soundFileName>
+              </Item>
+            </effectSounds>
+          </Item>
+        </effects>
+        <actions>
+        </actions>
+        <buffs></buffs>
+        <sounds>
+          <Item>
+            <soundTime>7</soundTime>
+            <soundFileName>Audio/shellyBowFireSound</soundFileName>
+          </Item>
+        </sounds>
+      </Item>
+      <Item>
+        <techniqueName>Defend</techniqueName>
+        <techniqueDescription>Guard with bow.</techniqueDescription>
+        <techniqueRange>Direct</techniqueRange>
+        <techniqueTargeting>Self</techniqueTargeting>
+        <techniqueCost>0</techniqueCost>
+        <characterAnimation>
+          <textureFileName>BattleCharacters/Shelly/ShellyBattleBlock</textureFileName>
+          <totalFrames>2</totalFrames>
+          <fps>10</fps>
+        </characterAnimation>
+        <effects></effects>
+        <actions>
+        </actions>
+        <buffs></buffs>
+        <sounds></sounds>
+      </Item>
+      <Item>
+        <!-- Example of a healing spell technique.-->
+        <techniqueName>Fresh Breeze</techniqueName>
+        <techniqueDescription>Heal one ally.</techniqueDescription>
+        <techniqueRange>Ranged</techniqueRange>
+        <techniqueTargeting>SingleActiveAlly</techniqueTargeting>
+        <techniqueCost>10</techniqueCost>
+        <characterAnimation>
+          <textureFileName>BattleCharacters/Shelly/ShellyBattleCastSpell</textureFileName>
+          <totalFrames>4</totalFrames>
+          <fps>10</fps>
+        </characterAnimation>
+        <effects>
+          <Item>
+            <effectType>SpellTargeted</effectType>
+            <effectAnimation>
+              <textureFileName>BattleCharacters/Shelly/ShellyBattleHealEffect</textureFileName>
+              <totalFrames>4</totalFrames>
+              <fps>10</fps>
+            </effectAnimation>
+            <relativePosition>-60 -30</relativePosition>
+            <speed>0</speed>
+            <startTime>1</startTime>
+            <lifeTime>4</lifeTime>
+            <effectActions>
+              <!--Example of a healing damage action.-->
+              <Item>
+                <actionTime>2</actionTime>
+                <actionType>Healing</actionType>
+                <actionStatType>Physical</actionStatType>
+                <strength>12</strength>
+              </Item>
+            </effectActions>
+            <effectBuffs></effectBuffs>
+            <effectSounds></effectSounds>
+          </Item>
+        </effects>
+        <actions>
+        </actions>
+        <buffs></buffs>
+        <sounds></sounds>
+      </Item>
+      <Item>
+        <!-- Example of a revival spell technique.-->
+        <techniqueName>Gift of Life</techniqueName>
+        <techniqueDescription>Revive one ally with 10% HP.</techniqueDescription>
+        <techniqueRange>Ranged</techniqueRange>
+        <techniqueTargeting>SingleKOdAlly</techniqueTargeting>
+        <techniqueCost>10</techniqueCost>
+        <characterAnimation>
+          <textureFileName>BattleCharacters/Shelly/ShellyBattleCastSpell</textureFileName>
+          <totalFrames>4</totalFrames>
+          <fps>10</fps>
+        </characterAnimation>
+        <effects>
+          <Item>
+            <effectType>SpellTargeted</effectType>
+            <effectAnimation>
+              <textureFileName>BattleCharacters/Shelly/ShellyBattleHealEffect</textureFileName>
+              <totalFrames>4</totalFrames>
+              <fps>10</fps>
+            </effectAnimation>
+            <relativePosition>-60 -30</relativePosition>
+            <speed>0</speed>
+            <startTime>1</startTime>
+            <lifeTime>4</lifeTime>
+            <effectActions>
+              <!--Example of a revival damage action.-->
+              <Item>
+                <actionTime>2</actionTime>
+                <actionType>Revive</actionType>
+                <actionStatType>Physical</actionStatType>
+                <strength>10</strength>
+              </Item>
+            </effectActions>
+            <effectBuffs></effectBuffs>
+            <effectSounds></effectSounds>
+          </Item>
+        </effects>
+        <actions>
+        </actions>
+        <buffs></buffs>
+        <sounds></sounds>
+      </Item>
+    </techniques>
+  </Asset>
+</XnaContent>

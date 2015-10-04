@@ -1,0 +1,8 @@
+C:\Users\Andrew\Desktop\RPGProject\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project Work\RPGProject\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project Work\RPGProject\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Game Development\Project Work\RPGProject\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Project Work\RPGProject\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Project Work\RPGProject\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\Project Work\RPGProject\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\AMck - Project Work\RPGProject\Content\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!--
+      List of enemies and their difficulty levels.
+      When creating a new enemy, add its ID and difficulty level here.
+      Enemies of the same difficulty level have a chance of appearing together in battles.
+  -->
+  <Asset Type="System.Collections.Generic.List[RPGProjectLibrary.EnemyDifficultyData]">
+      <Item>
+        <!--Example of two enemies with the same difficulty.-->
+        <enemyID>Turtle</enemyID>
+        <difficultyLevel>0</difficultyLevel>
+      </Item>
+      <Item>
+        <enemyID>Beast</enemyID>
+        <difficultyLevel>0</difficultyLevel>
+      </Item>
+      <Item>
+        <enemyID>Thug</enemyID>
+        <difficultyLevel>0</difficultyLevel>
+      </Item>
+  </Asset>
+</XnaContent>
